@@ -1,4 +1,5 @@
 # 참가자 명단
+-------------
 
 * aiden163: 이지*(2020660*)
 * alqmzhh92: 김하*(2020311*)
@@ -61,7 +62,7 @@
 * ohjh0118: 오정*(2020433*)
 * OkiOkl: 이한*(2020115*)
 * ottersem: 박승*(2020681*)
-* ParkJh38: STUDENT 파일 내 github 계정 수정!
+* ParkJh38: **STUDENT 파일 내 github 계정 수정!**
 * pjmkjjpk: 박지*(2020472*)
 * pooang2020: 안서*(2020143*)
 * rakbin007: 성락*(2020100*)
@@ -70,7 +71,7 @@
 * sally1924: 박채*(2020541*)
 * sara-k1m: 김사*(2020217*)
 * seanlee5808: 이승*(2020123*)
-* shindongmin11: STUDENT 파일 작성!
+* shindongmin11: **STUDENT 파일 작성!**
 * Shorangnavi2: 박민*(2020322*)
 * sihumji00: 이승*(2020409*)
 * skdbs: 유나*(2020134*)
@@ -86,13 +87,14 @@
 * sunghyun2001: 김성*(2020023*)
 * sunjooahn: 안선*(2020681*)
 * TheAyzr: 김권*(2020189*)
-* thrawn1118: STUDENT 파일 내 github 계정 수정!
+* thrawn1118: **STUDENT 파일 내 github 계정 수정!**
 * Thre0nine: 최지*(2020512*)
 * tjgus6745: 배서*(2020491*)
 * underlunar0613: 설동*(2020292*)
 * va0037: 박규*(2020655*)
 * Wisdom-Kim: 김지*(2020465*)
 * wkdgnl123: 정민*(2020360*)
+* xogjs9908: 오태*(2020318*)
 * ychaaaan: 김예*(2020646*)
 * yejik1002: 공예*(2020663*)
 * yjh9929: 윤지*(2020562*)
