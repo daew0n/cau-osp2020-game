@@ -56,7 +56,7 @@
 * mjseo0515: 서민*(2020289*)
 * munyoubin: 문유*(2019385*)
 * n2ceo778: 신수*(2020267*)
-* Namkyunghun: Na*********(2019079*)
+* Namkyunghun: 남경*(2019079*)
 * nayeonii: 기나*(2020357*)
 * NepleDev: 전종*(2020085*)
 * nsssslllp: 박지*(2020095*)
