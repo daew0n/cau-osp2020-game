@@ -35,6 +35,7 @@
 * JIMINOFF: 김지*(2020446*)
 * jinupotato: 최진*(2020258*)
 * jinyujin0602: 진유*(2020640*)
+* jsjy0830: 이재*(2020321*)
 * junsoo08: 김준*(2020232*)
 * JunYoungTonyKim: 김준*(2020506*)
 * kahyeon17: 김가*(2020395*)
