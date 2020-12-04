@@ -182,7 +182,7 @@
 
 * TheAyzr: 김권*(2020189*)
 
-* thrawn1118: **STUDENT 파일 내 github 계정 수정!**
+* thrawn1118: 서진*(2019139*)
 
 * Thre0nine: 최지*(2020512*)
 
