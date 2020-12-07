@@ -6,5 +6,5 @@
 
 | 참가자 | 순위 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| dwgoon-MyTeam | 1 | 0 | 1 | 0 | 1 |
-| bigoriginlee-MyTeam | 2 | 0 | 1 | 0 | 1 |
+| dwgoon-MyTeam | 1 | 0 | 0 | 1 | 0 |
+| bigoriginlee-MyTeam | 2 | 1 | 0 | 0 | 3 |
