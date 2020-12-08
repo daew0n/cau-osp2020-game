@@ -10,6 +10,10 @@
 - `loa` 패키지에서 제공하는 클래스를 기반으로 자신만의 유닛(unit)과 팀(team) 클래스를 작성.
 - 참가자가 정의한 팀 클래스는 `team.py` 모듈의 `get_team()` 함수를 통해 인스턴스화(instantiation)가 가능해야 함.
 - `team.py` 모듈 파일을 `cau-osp2020` 개인저장소에 업로드.
+    - `cau-osp2020`에 자동으로 생성되는 `student_xxxxxxxx` 디렉토리 내에 `team.py` 모듈 파일을 작성.
+    - `team.py` 모듈은 `get_team()` 함수를 제공해야 하며, `get_team()` 함수의 역할은 `loa.Team`의 파생 클래스를 인스턴스화하여 리턴하는 것임.
+    - `team.py` 모듈에서 별도 모듈을 활용하고자 하는 경우,
+      별도 모듈 파일은 반드시 `student_xxxxxxxx` 디렉토리 내에 있어야 하며 `team.py`에서 해당 모듈을 **상대경로**로 불러들임(`import`).
 - 서버에서 일정 시간 간격으로 모든 참가자의 `cau-osp2020` 개인저장소를 다운로드하며, `team.py`에 정의된 팀 객체를 이용하여 리그를 진행.
 - 일정 시간 간격으로 리그 결과를 `leaderboard-round-xx.md`에 게시.
 
