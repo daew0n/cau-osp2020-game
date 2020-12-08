@@ -34,6 +34,8 @@
 
 * dudcodi: 송영*(2020596*)
 
+* dwgoon: 이대*(2004105*)
+
 * Eunyoung1223: 지은*(2020119*)
 
 * eunyoungyi: 이은*(2020274*)
@@ -148,7 +150,7 @@
 
 * seanlee5808: 이승*(2020123*)
 
-* shindongmin11: **STUDENT 파일 작성!**
+* shindongmin11: 신동*(2020530*)
 
 * Shorangnavi2: 박민*(2020322*)
 
