@@ -1,27 +1,28 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 10일 00시 48분
+최종 업데이트: 2020년 12월 10일 01시 05분
 
 
 
 
 | 참가자 | 순위 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| newbie@gh-BumsooKim | 1 | 16 | 0 | 1 | 48 |
-| RAKSTeam@rakbin007 | 2 | 15 | 0 | 2 | 45 |
-| ColaBearHunt@RubADuckDuck | 3 | 14 | 1 | 2 | 43 |
-| Yabeunosem@minju8843 | 4 | 13 | 1 | 3 | 40 |
-| ChaBB@suewcho | 5 | 13 | 1 | 3 | 40 |
-| BBIBBI@Eunyoung1223 | 6 | 11 | 1 | 5 | 34 |
-| DaDaDaDa@nsssslllp | 7 | 11 | 0 | 6 | 33 |
-| SH_Team@sihumji00 | 8 | 10 | 0 | 7 | 30 |
-| MyTeam@yejik1002 | 9 | 9 | 2 | 6 | 29 |
-| Adventurer@Imhanbin123 | 10 | 8 | 1 | 8 | 25 |
-| COOKIE@JIMINOFF | 11 | 6 | 0 | 11 | 18 |
-| RainbOw@HARY020 | 12 | 5 | 1 | 11 | 16 |
-| Hangeul@dazzsoj | 13 | 3 | 3 | 11 | 12 |
-| MyTeam@dwgoon | 14 | 3 | 3 | 11 | 12 |
-| LittleLyrical@ArfiTech | 15 | 2 | 4 | 12 | 10 |
-| MyTeam@bigoriginlee | 16 | 2 | 4 | 12 | 10 |
-| EZ@CDoubleH | 17 | 1 | 0 | 16 | 3 |
-| tresed@dnalsitresed | 18 | 1 | 0 | 16 | 3 |
-| KH-L@L-HK | 19 | 0 | 2 | 0 | 2 |
+| RAKSTeam@rakbin007 | 1 | 17 | 0 | 2 | 51 |
+| newbie@gh-BumsooKim | 2 | 17 | 0 | 1 | 51 |
+| ColaBearHunt@RubADuckDuck | 3 | 15 | 1 | 2 | 46 |
+| LittleLyrical@ArfiTech | 4 | 12 | 4 | 3 | 40 |
+| ChaBB@suewcho | 5 | 12 | 1 | 6 | 37 |
+| BBIBBI@Eunyoung1223 | 6 | 11 | 4 | 4 | 37 |
+| MyTeam@jbr1tr | 7 | 12 | 1 | 5 | 37 |
+| Yabeunosem@minju8843 | 8 | 11 | 2 | 5 | 35 |
+| DaDaDaDa@nsssslllp | 9 | 11 | 0 | 7 | 33 |
+| MyTeam@yejik1002 | 10 | 9 | 4 | 6 | 31 |
+| SH_Team@sihumji00 | 11 | 9 | 1 | 9 | 28 |
+| Adventurer@Imhanbin123 | 12 | 7 | 2 | 10 | 23 |
+| COOKIE@JIMINOFF | 13 | 5 | 1 | 13 | 16 |
+| RainbOw@HARY020 | 14 | 4 | 1 | 13 | 13 |
+| MyTeam@dwgoon | 15 | 3 | 2 | 13 | 11 |
+| MyTeam@bigoriginlee | 16 | 3 | 2 | 13 | 11 |
+| Hangeul@dazzsoj | 17 | 2 | 3 | 14 | 9 |
+| KH-L@L-HK | 18 | 0 | 7 | 3 | 7 |
+| tresed@dnalsitresed | 19 | 2 | 0 | 17 | 6 |
+| EZ@CDoubleH | 20 | 1 | 0 | 17 | 3 |
