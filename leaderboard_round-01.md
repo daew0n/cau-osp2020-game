@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 10일 02시 42분
+최종 업데이트: 2020년 12월 10일 02시 44분
 
 
 
@@ -13,8 +13,8 @@
 | BBIBBI@Eunyoung1223 | 5 | 10 | 3 | 2 | 33 |
 | MyTeam@jbr1tr | 6 | 9 | 2 | 4 | 29 |
 | DaDaDaDa@nsssslllp | 7 | 9 | 0 | 6 | 27 |
-| SH_Team@sihumji00 | 8 | 8 | 0 | 7 | 24 |
-| Adventurer@Imhanbin123 | 9 | 7 | 1 | 7 | 22 |
+| SH_Team@sihumji00 | 8 | 9 | 0 | 6 | 27 |
+| Adventurer@Imhanbin123 | 9 | 6 | 1 | 8 | 19 |
 | Vvs@artech2w | 10 | 5 | 1 | 9 | 16 |
 | COOKIE@JIMINOFF | 11 | 4 | 1 | 10 | 13 |
 | RainbOw@HARY020 | 12 | 2 | 3 | 10 | 9 |
