@@ -1,26 +1,27 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 10일 05시 01분
+최종 업데이트: 2020년 12월 10일 05시 11분
 
 
 
 
 | 참가자 | 순위 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| SSeong@sseong-mi | 1 | 17 | 0 | 0 | 51 |
-| ColaBearHunt@RubADuckDuck | 2 | 16 | 0 | 1 | 48 |
-| BBIBBI@Eunyoung1223 | 3 | 11 | 4 | 2 | 37 |
-| LittleLyrical@ArfiTech | 4 | 11 | 3 | 3 | 36 |
-| MyTeam@jbr1tr | 5 | 11 | 3 | 3 | 36 |
-| Yabeunosem@minju8843 | 6 | 10 | 3 | 4 | 33 |
-| chungang@suhwan01 | 7 | 10 | 0 | 7 | 30 |
-| SH_Team@sihumji00 | 8 | 9 | 1 | 7 | 28 |
-| DaDaDaDa@nsssslllp | 9 | 8 | 3 | 6 | 27 |
-| Adventurer@Imhanbin123 | 10 | 8 | 2 | 7 | 26 |
-| Vvs@artech2w | 11 | 7 | 0 | 10 | 21 |
-| COOKIE@JIMINOFF | 12 | 5 | 1 | 11 | 16 |
-| RainbOw@HARY020 | 13 | 4 | 2 | 11 | 14 |
-| MyTeam@dwgoon | 14 | 3 | 3 | 11 | 12 |
-| Hangeul@dazzsoj | 15 | 2 | 3 | 12 | 9 |
-| MyTeam@bigoriginlee | 16 | 2 | 3 | 12 | 9 |
-| MyTeam@MaSeongHwan | 17 | 1 | 5 | 11 | 8 |
-| newbie@gh-BumsooKim | 18 | 0 | 0 | 17 | 0 |
+| SSeong@sseong-mi | 1 | 18 | 0 | 0 | 54 |
+| ColaBearHunt@RubADuckDuck | 2 | 17 | 0 | 1 | 51 |
+| BBIBBI@Eunyoung1223 | 3 | 13 | 3 | 2 | 42 |
+| LittleLyrical@ArfiTech | 4 | 12 | 4 | 2 | 40 |
+| MyTeam@jbr1tr | 5 | 12 | 3 | 3 | 39 |
+| Yabeunosem@minju8843 | 6 | 11 | 3 | 4 | 36 |
+| chungang@suhwan01 | 7 | 11 | 0 | 7 | 33 |
+| Adventurer@Imhanbin123 | 8 | 10 | 0 | 8 | 30 |
+| SH_Team@sihumji00 | 9 | 9 | 1 | 8 | 28 |
+| MyTeam@yejik1002 | 10 | 9 | 0 | 9 | 27 |
+| DaDaDaDa@nsssslllp | 11 | 8 | 3 | 7 | 27 |
+| Vvs@artech2w | 12 | 7 | 1 | 10 | 22 |
+| COOKIE@JIMINOFF | 13 | 4 | 2 | 12 | 14 |
+| Hangeul@dazzsoj | 14 | 4 | 2 | 12 | 14 |
+| RainbOw@HARY020 | 15 | 4 | 1 | 13 | 13 |
+| MyTeam@bigoriginlee | 16 | 3 | 3 | 12 | 12 |
+| MyTeam@dwgoon | 17 | 2 | 2 | 14 | 8 |
+| MyTeam@MaSeongHwan | 18 | 1 | 4 | 13 | 7 |
+| newbie@gh-BumsooKim | 19 | 0 | 0 | 18 | 0 |
