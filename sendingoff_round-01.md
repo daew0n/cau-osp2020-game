@@ -7,10 +7,3 @@
 
 | 참가자 |
 |:---:|
-| EZ@CDoubleH |
-| newbie@gh-BumsooKim |
-| ChaBB@suewcho |
-| RAKSTeam@rakbin007 |
-| KH-L@L-HK |
-| MyTeam@yejik1002 |
-| Firestorm@NepleDev |
