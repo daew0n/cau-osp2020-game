@@ -1,15 +1,16 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 09일 09시 08분
+최종 업데이트: 2020년 12월 09일 09시 18분
 
 
 
 
 | 참가자 | 순위 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| minju8843-Yabeunosem | 1 | 6 | 0 | 0 | 18 |
-| yejik1002-MyTeam | 2 | 5 | 0 | 1 | 15 |
-| Eunyoung1223-MyTeam | 3 | 4 | 0 | 2 | 12 |
-| rakbin007-RAKSTeam | 4 | 0 | 3 | 3 | 3 |
-| dwgoon-MyTeam | 5 | 0 | 3 | 3 | 3 |
-| bigoriginlee-MyTeam | 6 | 0 | 3 | 3 | 3 |
-| jbr1tr-MyTeam | 7 | 0 | 3 | 3 | 3 |
+| yejik1002-MyTeam | 1 | 6 | 1 | 0 | 19 |
+| sihumji00-Myteam | 2 | 6 | 0 | 1 | 18 |
+| minju8843-Yabeunosem | 3 | 5 | 1 | 1 | 16 |
+| Eunyoung1223-MyTeam | 4 | 4 | 0 | 3 | 12 |
+| rakbin007-RAKSTeam | 5 | 0 | 3 | 4 | 3 |
+| dwgoon-MyTeam | 6 | 0 | 3 | 4 | 3 |
+| bigoriginlee-MyTeam | 7 | 0 | 3 | 4 | 3 |
+| jbr1tr-MyTeam | 8 | 0 | 3 | 4 | 3 |
