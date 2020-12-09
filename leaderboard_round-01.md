@@ -1,26 +1,27 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 10일 03시 40분
+최종 업데이트: 2020년 12월 10일 03시 51분
 
 
 
 
 | 참가자 | 순위 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| SSeong@sseong-mi | 1 | 17 | 0 | 0 | 51 |
-| ColaBearHunt@RubADuckDuck | 2 | 16 | 0 | 1 | 48 |
-| LittleLyrical@ArfiTech | 3 | 12 | 2 | 3 | 38 |
-| BBIBBI@Eunyoung1223 | 4 | 11 | 4 | 2 | 37 |
-| MyTeam@jbr1tr | 5 | 11 | 3 | 3 | 36 |
-| Yabeunosem@minju8843 | 6 | 11 | 2 | 4 | 35 |
-| DaDaDaDa@nsssslllp | 7 | 9 | 3 | 5 | 30 |
-| Adventurer@Imhanbin123 | 8 | 8 | 3 | 6 | 27 |
-| SH_Team@sihumji00 | 9 | 8 | 1 | 8 | 25 |
-| Vvs@artech2w | 10 | 8 | 0 | 9 | 24 |
-| COOKIE@JIMINOFF | 11 | 7 | 0 | 10 | 21 |
-| RainbOw@HARY020 | 12 | 6 | 1 | 10 | 19 |
-| Hangeul@dazzsoj | 13 | 4 | 2 | 11 | 14 |
-| MyTeam@bigoriginlee | 14 | 4 | 2 | 11 | 14 |
-| MyTeam@dwgoon | 15 | 3 | 3 | 11 | 12 |
-| MyTeam@MaSeongHwan | 16 | 2 | 4 | 11 | 10 |
-| tresed@dnalsitresed | 17 | 1 | 0 | 16 | 3 |
-| newbie@gh-BumsooKim | 18 | 0 | 0 | 17 | 0 |
+| SSeong@sseong-mi | 1 | 18 | 0 | 0 | 54 |
+| ColaBearHunt@RubADuckDuck | 2 | 17 | 0 | 1 | 51 |
+| BBIBBI@Eunyoung1223 | 3 | 13 | 3 | 2 | 42 |
+| LittleLyrical@ArfiTech | 4 | 12 | 3 | 3 | 39 |
+| DaDaDaDa@nsssslllp | 5 | 13 | 0 | 5 | 39 |
+| MyTeam@jbr1tr | 6 | 12 | 3 | 3 | 39 |
+| Yabeunosem@minju8843 | 7 | 11 | 3 | 4 | 36 |
+| chungang@suhwan01 | 8 | 11 | 0 | 7 | 33 |
+| SH_Team@sihumji00 | 9 | 9 | 2 | 7 | 29 |
+| Adventurer@Imhanbin123 | 10 | 7 | 3 | 8 | 24 |
+| Vvs@artech2w | 11 | 8 | 0 | 10 | 24 |
+| COOKIE@JIMINOFF | 12 | 7 | 0 | 11 | 21 |
+| RainbOw@HARY020 | 13 | 5 | 1 | 12 | 16 |
+| MyTeam@dwgoon | 14 | 4 | 2 | 12 | 14 |
+| MyTeam@bigoriginlee | 15 | 4 | 2 | 12 | 14 |
+| Hangeul@dazzsoj | 16 | 3 | 2 | 13 | 11 |
+| MyTeam@MaSeongHwan | 17 | 2 | 4 | 12 | 10 |
+| tresed@dnalsitresed | 18 | 1 | 0 | 17 | 3 |
+| newbie@gh-BumsooKim | 19 | 0 | 0 | 18 | 0 |
