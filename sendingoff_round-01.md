@@ -7,9 +7,9 @@
 
 | 참가자 |
 |:---:|
-| EZ@CDoubleH |
-| Firestorm@NepleDev |
-| MyTeam@yejik1002 |
-| ChaBB@suewcho |
 | KH-L@L-HK |
+| Firestorm@NepleDev |
+| ChaBB@suewcho |
+| EZ@CDoubleH |
 | RAKSTeam@rakbin007 |
+| MyTeam@yejik1002 |
