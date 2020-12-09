@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 10일 04시 11분
+최종 업데이트: 2020년 12월 10일 04시 21분
 
 
 
@@ -8,20 +8,20 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | SSeong@sseong-mi | 1 | 18 | 0 | 0 | 54 |
 | ColaBearHunt@RubADuckDuck | 2 | 17 | 0 | 1 | 51 |
-| LittleLyrical@ArfiTech | 3 | 13 | 3 | 2 | 42 |
-| BBIBBI@Eunyoung1223 | 4 | 13 | 3 | 2 | 42 |
-| MyTeam@jbr1tr | 5 | 11 | 4 | 3 | 37 |
-| Yabeunosem@minju8843 | 6 | 11 | 4 | 3 | 37 |
+| BBIBBI@Eunyoung1223 | 3 | 13 | 3 | 2 | 42 |
+| LittleLyrical@ArfiTech | 4 | 12 | 3 | 3 | 39 |
+| Yabeunosem@minju8843 | 5 | 12 | 3 | 3 | 39 |
+| MyTeam@jbr1tr | 6 | 11 | 3 | 4 | 36 |
 | chungang@suhwan01 | 7 | 11 | 0 | 7 | 33 |
-| DaDaDaDa@nsssslllp | 8 | 10 | 1 | 7 | 31 |
-| Adventurer@Imhanbin123 | 9 | 9 | 2 | 7 | 29 |
-| SH_Team@sihumji00 | 10 | 9 | 2 | 7 | 29 |
-| Vvs@artech2w | 11 | 8 | 0 | 10 | 24 |
-| COOKIE@JIMINOFF | 12 | 7 | 0 | 11 | 21 |
-| Hangeul@dazzsoj | 13 | 4 | 2 | 12 | 14 |
-| MyTeam@dwgoon | 14 | 4 | 2 | 12 | 14 |
-| RainbOw@HARY020 | 15 | 4 | 2 | 12 | 14 |
-| MyTeam@bigoriginlee | 16 | 3 | 3 | 12 | 12 |
-| MyTeam@MaSeongHwan | 17 | 2 | 4 | 12 | 10 |
+| DaDaDaDa@nsssslllp | 8 | 10 | 3 | 5 | 33 |
+| SH_Team@sihumji00 | 9 | 10 | 1 | 7 | 31 |
+| Vvs@artech2w | 10 | 8 | 1 | 9 | 25 |
+| Adventurer@Imhanbin123 | 11 | 7 | 3 | 8 | 24 |
+| COOKIE@JIMINOFF | 12 | 5 | 2 | 11 | 17 |
+| RainbOw@HARY020 | 13 | 4 | 4 | 10 | 16 |
+| MyTeam@bigoriginlee | 14 | 4 | 2 | 12 | 14 |
+| Hangeul@dazzsoj | 15 | 3 | 3 | 12 | 12 |
+| MyTeam@dwgoon | 16 | 3 | 3 | 12 | 12 |
+| MyTeam@MaSeongHwan | 17 | 2 | 6 | 10 | 12 |
 | tresed@dnalsitresed | 18 | 1 | 0 | 17 | 3 |
 | newbie@gh-BumsooKim | 19 | 0 | 0 | 18 | 0 |
