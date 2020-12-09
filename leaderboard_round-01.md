@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 10일 07시 01분
+최종 업데이트: 2020년 12월 10일 07시 11분
 
 
 
@@ -8,18 +8,18 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | SSeong@sseong-mi | 1 | 19 | 0 | 0 | 57 |
 | ColaBearHunt@RubADuckDuck | 2 | 18 | 0 | 1 | 54 |
-| LittleLyrical@ArfiTech | 3 | 14 | 2 | 3 | 44 |
-| Yabeunosem@minju8843 | 4 | 14 | 2 | 3 | 44 |
-| BBIBBI@Eunyoung1223 | 5 | 13 | 3 | 3 | 42 |
-| MyTeam@jbr1tr | 6 | 12 | 3 | 4 | 39 |
-| DaDaDaDa@nsssslllp | 7 | 12 | 1 | 6 | 37 |
-| chungang@suhwan01 | 8 | 11 | 0 | 8 | 33 |
-| Adventurer@Imhanbin123 | 9 | 9 | 3 | 7 | 30 |
-| SH_Team@sihumji00 | 10 | 9 | 3 | 7 | 30 |
-| ionia@munyoubin | 11 | 9 | 1 | 9 | 28 |
-| Vvs@artech2w | 12 | 8 | 1 | 10 | 25 |
-| COOKIE@JIMINOFF | 13 | 6 | 2 | 11 | 20 |
-| RainbOw@HARY020 | 14 | 5 | 0 | 14 | 15 |
+| LittleLyrical@ArfiTech | 3 | 13 | 4 | 2 | 43 |
+| BBIBBI@Eunyoung1223 | 4 | 13 | 3 | 3 | 42 |
+| DaDaDaDa@nsssslllp | 5 | 13 | 2 | 4 | 41 |
+| Yabeunosem@minju8843 | 6 | 12 | 4 | 3 | 40 |
+| MyTeam@jbr1tr | 7 | 12 | 3 | 4 | 39 |
+| chungang@suhwan01 | 8 | 10 | 2 | 7 | 32 |
+| Adventurer@Imhanbin123 | 9 | 9 | 2 | 8 | 29 |
+| ionia@munyoubin | 10 | 9 | 1 | 9 | 28 |
+| SH_Team@sihumji00 | 11 | 8 | 3 | 8 | 27 |
+| Vvs@artech2w | 12 | 8 | 0 | 11 | 24 |
+| COOKIE@JIMINOFF | 13 | 7 | 1 | 11 | 22 |
+| RainbOw@HARY020 | 14 | 6 | 0 | 13 | 18 |
 | Hangeul@dazzsoj | 15 | 4 | 2 | 13 | 14 |
 | MyTeam@dwgoon | 16 | 4 | 2 | 13 | 14 |
 | MyTeam@bigoriginlee | 17 | 4 | 2 | 13 | 14 |
