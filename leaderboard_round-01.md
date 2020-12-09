@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 09일 19시 23분
+최종 업데이트: 2020년 12월 09일 19시 33분
 
 
 
@@ -10,9 +10,9 @@
 | gh-BumsooKim-newbie | 2 | 10 | 0 | 1 | 30 |
 | RubADuckDuck-ColaBearHunt | 3 | 9 | 0 | 2 | 27 |
 | suewcho-ChaBB | 4 | 8 | 0 | 3 | 24 |
-| Eunyoung1223-BBIBBI | 5 | 5 | 2 | 4 | 17 |
+| Eunyoung1223-BBIBBI | 5 | 6 | 1 | 4 | 19 |
 | jbr1tr-MyTeam | 6 | 5 | 2 | 4 | 17 |
-| minju8843-Yabeunosem | 7 | 4 | 3 | 4 | 15 |
+| minju8843-Yabeunosem | 7 | 4 | 2 | 5 | 14 |
 | yejik1002-MyTeam | 8 | 4 | 1 | 6 | 13 |
 | JIMINOFF-COOKIE | 9 | 3 | 0 | 8 | 9 |
 | dazzsoj-MyTeam | 10 | 0 | 2 | 9 | 2 |
