@@ -1,5 +1,5 @@
 # Players sent off
-최종 업데이트: 2020년 12월 10일 08시 01분
+최종 업데이트: 2020년 12월 10일 08시 11분
 오류 발생으로 인해 퇴장된 참가자
 
 
@@ -7,7 +7,7 @@
 
 | 참가자 |
 |:---:|
-| RAKSTeam@rakbin007 |
 | EZ@CDoubleH |
+| RAKSTeam@rakbin007 |
 | ChaBB@suewcho |
 | KH-L@L-HK |
