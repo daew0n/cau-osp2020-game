@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 11일 03시 56분
+최종 업데이트: 2020년 12월 11일 04시 01분
 
 
 
@@ -17,43 +17,43 @@
 | NOTEZ@nsssslllp | 9 | 50 | 40 | 1 | 9 | 121 |
 | JongGang@michael01924 | 10 | 50 | 40 | 0 | 10 | 120 |
 | SUPERULTRACAPSSHONGZZANG@dudcodi | 11 | 50 | 38 | 0 | 12 | 114 |
-| KakaoBears@MaSeongHwan | 12 | 50 | 37 | 2 | 11 | 113 |
-| EZ_PZ@TheAyzr | 13 | 50 | 37 | 0 | 13 | 111 |
-| Roster@StackOut-K1m | 14 | 50 | 36 | 1 | 13 | 109 |
-| junghu@songjunghu | 15 | 50 | 36 | 0 | 14 | 108 |
-| Vvs@artech2w | 16 | 50 | 30 | 3 | 17 | 93 |
-| HSJTEAM@hsj1128 | 17 | 50 | 28 | 3 | 19 | 87 |
-| LittleLyrical@ArfiTech | 18 | 50 | 29 | 0 | 21 | 87 |
+| KakaoBears@MaSeongHwan | 12 | 50 | 36 | 4 | 10 | 112 |
+| EZ_PZ@TheAyzr | 13 | 50 | 36 | 1 | 13 | 109 |
+| Roster@StackOut-K1m | 14 | 50 | 35 | 2 | 13 | 107 |
+| junghu@songjunghu | 15 | 50 | 35 | 1 | 14 | 106 |
+| HSJTEAM@hsj1128 | 16 | 50 | 30 | 1 | 19 | 91 |
+| LittleLyrical@ArfiTech | 17 | 50 | 30 | 0 | 20 | 90 |
+| Vvs@artech2w | 18 | 50 | 29 | 2 | 19 | 89 |
 | tresed@dnalsitresed | 19 | 50 | 27 | 6 | 17 | 87 |
 | Adventurer@Imhanbin123 | 20 | 50 | 27 | 5 | 18 | 86 |
-| ChaBB@suewcho | 21 | 50 | 27 | 4 | 19 | 85 |
+| ChaBB@suewcho | 21 | 50 | 27 | 2 | 21 | 83 |
 | EZ@CDoubleH | 22 | 50 | 17 | 31 | 2 | 82 |
-| Hangeul@dazzsoj | 23 | 50 | 24 | 1 | 25 | 73 |
-| WinWin@ychaaaan | 24 | 50 | 20 | 8 | 22 | 68 |
-| YonyT@alqmzhh92 | 25 | 50 | 20 | 8 | 22 | 68 |
-| Yabeunosem@minju8843 | 26 | 50 | 20 | 7 | 23 | 67 |
-| Chess@rex0053 | 27 | 50 | 18 | 11 | 21 | 65 |
-| SpongeBob@sunjooahn | 28 | 50 | 19 | 8 | 23 | 65 |
+| Chess@rex0053 | 23 | 50 | 21 | 9 | 20 | 72 |
+| Hangeul@dazzsoj | 24 | 50 | 23 | 2 | 25 | 71 |
+| WinWin@ychaaaan | 25 | 50 | 21 | 6 | 23 | 69 |
+| YonyT@alqmzhh92 | 26 | 50 | 19 | 8 | 23 | 65 |
+| Yabeunosem@minju8843 | 27 | 50 | 18 | 11 | 21 | 65 |
+| Stop@lkm778u | 28 | 50 | 19 | 7 | 24 | 64 |
 | Numseil@Jeon-Minjeong | 29 | 50 | 19 | 6 | 25 | 63 |
-| Stop@lkm778u | 30 | 50 | 17 | 8 | 25 | 59 |
-| BBIBBI@Eunyoung1223 | 31 | 50 | 16 | 9 | 25 | 57 |
-| AGANG@jbr1tr | 32 | 50 | 17 | 6 | 27 | 57 |
-| SH_Team@sihumji00 | 33 | 50 | 17 | 5 | 28 | 56 |
-| ddubiddubap@wkdgnl123 | 34 | 50 | 15 | 9 | 26 | 54 |
-| XjaesugangX@sally1924 | 35 | 50 | 14 | 11 | 25 | 53 |
-| True_Damage@maritajee | 36 | 50 | 15 | 8 | 27 | 53 |
-| ionia@munyoubin | 37 | 50 | 14 | 3 | 33 | 45 |
-| HICPT@seanlee5808 | 38 | 50 | 12 | 3 | 35 | 39 |
-| NaDa@yjh9929 | 39 | 50 | 11 | 3 | 36 | 36 |
-| coronaxxx@pjmkjjpk | 40 | 50 | 11 | 1 | 38 | 34 |
-| dbsepf@skdbs | 41 | 50 | 9 | 4 | 37 | 31 |
-| KHH@kimhh2880 | 42 | 50 | 10 | 1 | 39 | 31 |
-| COINCIDENCE@tjgus6745 | 43 | 50 | 9 | 2 | 39 | 29 |
-| PuangTeam@Namkyunghun | 44 | 50 | 8 | 2 | 40 | 26 |
-| aabbccdd@JIMINOFF | 45 | 50 | 7 | 3 | 40 | 24 |
-| RainbOw@HARY020 | 46 | 50 | 2 | 14 | 34 | 20 |
-| 😎@dwgoon | 47 | 50 | 4 | 4 | 42 | 16 |
-| Prism@eunyoungyi | 48 | 50 | 3 | 5 | 42 | 14 |
-| 도곡동 솜주먹@smjeon2410 | 49 | 50 | 1 | 6 | 43 | 9 |
-| MyTeam@bigoriginlee | 50 | 50 | 1 | 6 | 43 | 9 |
-| MyTeam@jinupotato | 51 | 50 | 1 | 5 | 44 | 8 |
+| True_Damage@maritajee | 30 | 50 | 17 | 7 | 26 | 58 |
+| XjaesugangX@sally1924 | 31 | 50 | 16 | 9 | 25 | 57 |
+| SpongeBob@sunjooahn | 32 | 50 | 16 | 9 | 25 | 57 |
+| ddubiddubap@wkdgnl123 | 33 | 50 | 15 | 10 | 25 | 55 |
+| SH_Team@sihumji00 | 34 | 50 | 17 | 4 | 29 | 55 |
+| BBIBBI@Eunyoung1223 | 35 | 50 | 15 | 9 | 26 | 54 |
+| AGANG@jbr1tr | 36 | 50 | 15 | 9 | 26 | 54 |
+| ionia@munyoubin | 37 | 50 | 13 | 4 | 33 | 43 |
+| HICPT@seanlee5808 | 38 | 50 | 12 | 4 | 34 | 40 |
+| NaDa@yjh9929 | 39 | 50 | 11 | 2 | 37 | 35 |
+| KHH@kimhh2880 | 40 | 50 | 10 | 4 | 36 | 34 |
+| coronaxxx@pjmkjjpk | 41 | 50 | 11 | 0 | 39 | 33 |
+| COINCIDENCE@tjgus6745 | 42 | 50 | 10 | 2 | 38 | 32 |
+| PuangTeam@Namkyunghun | 43 | 50 | 10 | 1 | 39 | 31 |
+| dbsepf@skdbs | 44 | 50 | 8 | 4 | 38 | 28 |
+| aabbccdd@JIMINOFF | 45 | 50 | 8 | 1 | 41 | 25 |
+| RainbOw@HARY020 | 46 | 50 | 4 | 10 | 36 | 22 |
+| 도곡동 솜주먹@smjeon2410 | 47 | 50 | 3 | 4 | 43 | 13 |
+| 😎@dwgoon | 48 | 50 | 4 | 1 | 45 | 13 |
+| Prism@eunyoungyi | 49 | 50 | 2 | 5 | 43 | 11 |
+| MyTeam@bigoriginlee | 50 | 50 | 2 | 5 | 43 | 11 |
+| MyTeam@jinupotato | 51 | 50 | 1 | 6 | 43 | 9 |
