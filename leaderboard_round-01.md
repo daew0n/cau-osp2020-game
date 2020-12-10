@@ -1,54 +1,55 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 10일 23시 58분
+최종 업데이트: 2020년 12월 11일 00시 06분
 
 
 
 
 | 참가자 | 순위 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **I'm 1st**@NepleDev | 1 | 44 | 0 | 1 | 132 |
-| **I'm 2nd**@L-HK | 2 | 43 | 1 | 1 | 130 |
-| <b>This is Artech</b><img src='http://artech.cau.ac.kr/images/logo.png' width='340px' height='80px'>@gh-BumsooKim | 3 | 43 | 0 | 2 | 129 |
-| RAKSTeam@rakbin007 | 4 | 40 | 2 | 3 | 122 |
-| CheckMate@imyoumin | 5 | 37 | 2 | 6 | 113 |
-| JongGang@michael01924 | 6 | 37 | 0 | 8 | 111 |
-| The Adelie Penguin@RubADuckDuck | 7 | 35 | 4 | 6 | 109 |
-| NOTEZ@nsssslllp | 8 | 35 | 1 | 9 | 106 |
-| KakaoBears@MaSeongHwan | 9 | 33 | 3 | 9 | 102 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 10 | 33 | 1 | 11 | 100 |
-| you know what?@sseong-mi | 11 | 33 | 1 | 11 | 100 |
-| Roster@StackOut-K1m | 12 | 30 | 1 | 14 | 91 |
-| 👑@chxhyxn | 13 | 30 | 0 | 15 | 90 |
-| EZ_PZ@TheAyzr | 14 | 30 | 0 | 15 | 90 |
-| ChaBB@suewcho | 15 | 25 | 1 | 19 | 76 |
-| WinWin@ychaaaan | 16 | 22 | 7 | 16 | 73 |
-| MyTeam@yejik1002 | 17 | 20 | 13 | 12 | 73 |
-| EZ@CDoubleH | 18 | 14 | 30 | 1 | 72 |
-| Hangeul@dazzsoj | 19 | 23 | 2 | 20 | 71 |
-| tresed@dnalsitresed | 20 | 23 | 2 | 20 | 71 |
-| Yabeunosem@minju8843 | 21 | 20 | 8 | 17 | 68 |
-| Adventurer@Imhanbin123 | 22 | 21 | 4 | 20 | 67 |
-| Chess@rex0053 | 23 | 19 | 7 | 19 | 64 |
-| chungang@suhwan01 | 24 | 19 | 5 | 21 | 62 |
-| SpongeBob@sunjooahn | 25 | 17 | 11 | 17 | 62 |
-| True_Damage@maritajee | 26 | 17 | 9 | 19 | 60 |
-| LittleLyrical@ArfiTech | 27 | 16 | 11 | 18 | 59 |
-| Vvs@artech2w | 28 | 15 | 12 | 18 | 57 |
-| MyTeam@jbr1tr | 29 | 17 | 6 | 22 | 57 |
-| BBIBBI@Eunyoung1223 | 30 | 15 | 10 | 20 | 55 |
-| ddubiddubap@wkdgnl123 | 31 | 15 | 10 | 20 | 55 |
-| Stop@lkm778u | 32 | 13 | 9 | 23 | 48 |
-| HSJTEAM@hsj1128 | 33 | 14 | 1 | 30 | 43 |
-| ionia@munyoubin | 34 | 13 | 2 | 30 | 41 |
-| HICPT@seanlee5808 | 35 | 11 | 5 | 29 | 38 |
-| COINCIDENCE@tjgus6745 | 36 | 9 | 3 | 33 | 30 |
-| RainbOw@HARY020 | 37 | 8 | 5 | 32 | 29 |
-| KHH@kimhh2880 | 38 | 8 | 4 | 33 | 28 |
-| aabbccdd@JIMINOFF | 39 | 9 | 0 | 36 | 27 |
-| PuangTeam@Namkyunghun | 40 | 9 | 0 | 36 | 27 |
-| YonyT@alqmzhh92 | 41 | 5 | 1 | 39 | 16 |
-| 😎@dwgoon | 42 | 5 | 1 | 39 | 16 |
-| MyTeam@bigoriginlee | 43 | 1 | 5 | 39 | 8 |
-| MyTeam@jinupotato | 44 | 1 | 5 | 39 | 8 |
-| dbsepf@skdbs | 45 | 1 | 5 | 39 | 8 |
-| Prism@eunyoungyi | 46 | 0 | 4 | 41 | 4 |
+| **I'm 1st**@NepleDev | 1 | 45 | 0 | 1 | 135 |
+| <b>This is Artech</b><img src='http://artech.cau.ac.kr/images/logo.png' width='340px' height='80px'>@gh-BumsooKim | 2 | 44 | 1 | 1 | 133 |
+| HAMSTERgiyubda@rakbin007 | 3 | 42 | 1 | 3 | 127 |
+| CheckMate@imyoumin | 4 | 39 | 2 | 5 | 119 |
+| The Adelie Penguin@RubADuckDuck | 5 | 37 | 5 | 4 | 116 |
+| JongGang@michael01924 | 6 | 38 | 1 | 7 | 115 |
+| NOTEZ@nsssslllp | 7 | 37 | 1 | 8 | 112 |
+| KakaoBears@MaSeongHwan | 8 | 34 | 3 | 9 | 105 |
+| you know what?@sseong-mi | 9 | 34 | 1 | 11 | 103 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 10 | 34 | 1 | 11 | 103 |
+| 👑@chxhyxn | 11 | 31 | 0 | 15 | 93 |
+| Roster@StackOut-K1m | 12 | 30 | 2 | 14 | 92 |
+| EZ_PZ@TheAyzr | 13 | 30 | 0 | 16 | 90 |
+| ChaBB@suewcho | 14 | 27 | 1 | 18 | 82 |
+| tresed@dnalsitresed | 15 | 26 | 2 | 18 | 80 |
+| MyTeam@jbr1tr | 16 | 24 | 6 | 16 | 78 |
+| MyTeam@yejik1002 | 17 | 20 | 15 | 11 | 75 |
+| EZ@CDoubleH | 18 | 15 | 30 | 1 | 75 |
+| Hangeul@dazzsoj | 19 | 24 | 2 | 20 | 74 |
+| WinWin@ychaaaan | 20 | 22 | 7 | 17 | 73 |
+| Adventurer@Imhanbin123 | 21 | 23 | 3 | 20 | 72 |
+| Chess@rex0053 | 22 | 22 | 6 | 18 | 72 |
+| True_Damage@maritajee | 23 | 20 | 8 | 18 | 68 |
+| SpongeBob@sunjooahn | 24 | 19 | 9 | 18 | 66 |
+| chungang@suhwan01 | 25 | 21 | 2 | 23 | 65 |
+| Yabeunosem@minju8843 | 26 | 20 | 5 | 21 | 65 |
+| LittleLyrical@ArfiTech | 27 | 18 | 10 | 18 | 64 |
+| Vvs@artech2w | 28 | 18 | 10 | 18 | 64 |
+| ddubiddubap@wkdgnl123 | 29 | 18 | 8 | 20 | 62 |
+| Stop@lkm778u | 30 | 16 | 7 | 23 | 55 |
+| ionia@munyoubin | 31 | 17 | 2 | 27 | 53 |
+| HSJTEAM@hsj1128 | 32 | 14 | 1 | 31 | 43 |
+| HICPT@seanlee5808 | 33 | 13 | 4 | 29 | 43 |
+| COINCIDENCE@tjgus6745 | 34 | 12 | 6 | 28 | 42 |
+| **I'm 2nd**@L-HK | 35 | 13 | 2 | 31 | 41 |
+| aabbccdd@JIMINOFF | 36 | 13 | 0 | 33 | 39 |
+| KHH@kimhh2880 | 37 | 11 | 5 | 30 | 38 |
+| PuangTeam@Namkyunghun | 38 | 11 | 1 | 34 | 34 |
+| RainbOw@HARY020 | 39 | 7 | 5 | 34 | 26 |
+| MyTeam@bigoriginlee | 40 | 6 | 4 | 36 | 22 |
+| MyTeam@jinupotato | 41 | 5 | 5 | 36 | 20 |
+| YonyT@alqmzhh92 | 42 | 6 | 2 | 38 | 20 |
+| dbsepf@skdbs | 43 | 5 | 4 | 37 | 19 |
+| junghu@songjunghu | 44 | 6 | 0 | 40 | 18 |
+| BBIBBI@Eunyoung1223 | 45 | 5 | 3 | 38 | 18 |
+| 😎@dwgoon | 46 | 5 | 2 | 39 | 17 |
+| Prism@eunyoungyi | 47 | 4 | 5 | 37 | 17 |
