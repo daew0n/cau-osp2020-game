@@ -1,44 +1,45 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 10일 21시 34분
+최종 업데이트: 2020년 12월 10일 21시 42분
 
 
 
 
 | 참가자 | 순위 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ⠀@L-HK | 1 | 32 | 2 | 1 | 98 |
-| RAKSTeam@rakbin007 | 2 | 31 | 0 | 4 | 93 |
-| newbie@gh-BumsooKim | 3 | 30 | 0 | 5 | 90 |
-| The Cola Bear@RubADuckDuck | 4 | 29 | 1 | 5 | 88 |
-| CheckMate@imyoumin | 5 | 28 | 1 | 6 | 85 |
-| NOTEZ@nsssslllp | 6 | 27 | 1 | 7 | 82 |
-| JongGang@michael01924 | 7 | 27 | 0 | 8 | 81 |
-| CanWin@chxhyxn | 8 | 26 | 1 | 8 | 79 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 9 | 26 | 0 | 9 | 78 |
-| KakaoBears@MaSeongHwan | 10 | 24 | 1 | 10 | 73 |
-| junghu@songjunghu | 11 | 21 | 0 | 14 | 63 |
-| Hangeul@dazzsoj | 12 | 21 | 0 | 14 | 63 |
-| EZ@CDoubleH | 13 | 13 | 22 | 0 | 61 |
-| tresed@dnalsitresed | 14 | 19 | 2 | 14 | 59 |
-| Yabeunosem@minju8843 | 15 | 17 | 6 | 12 | 57 |
-| Adventurer@Imhanbin123 | 16 | 18 | 2 | 15 | 56 |
-| BBIBBI@Eunyoung1223 | 17 | 15 | 5 | 15 | 50 |
-| LittleLyrical@ArfiTech | 18 | 13 | 7 | 15 | 46 |
-| chungang@suhwan01 | 19 | 13 | 6 | 16 | 45 |
-| WinWin@ychaaaan | 20 | 13 | 6 | 16 | 45 |
-| Vvs@artech2w | 21 | 11 | 11 | 13 | 44 |
-| MyTeam@jbr1tr | 22 | 12 | 7 | 16 | 43 |
-| SpongeBob@sunjooahn | 23 | 11 | 8 | 16 | 41 |
-| ddubiddubap@wkdgnl123 | 24 | 11 | 8 | 16 | 41 |
-| Stop@lkm778u | 25 | 11 | 5 | 19 | 38 |
-| ionia@munyoubin | 26 | 12 | 1 | 22 | 37 |
-| HICPT@seanlee5808 | 27 | 10 | 6 | 19 | 36 |
-| PuangTeam@Namkyunghun | 28 | 9 | 0 | 26 | 27 |
-| KHH@kimhh2880 | 29 | 7 | 3 | 25 | 24 |
-| 😎@dwgoon | 30 | 6 | 2 | 27 | 20 |
-| COOKIE@JIMINOFF | 31 | 5 | 3 | 27 | 18 |
-| Chess@rex0053 | 32 | 3 | 6 | 26 | 15 |
-| MyTeam@bigoriginlee | 33 | 3 | 4 | 28 | 13 |
-| YonyT@alqmzhh92 | 34 | 2 | 5 | 28 | 11 |
-| RainbOw@HARY020 | 35 | 2 | 4 | 29 | 10 |
-| Prism@eunyoungyi | 36 | 1 | 6 | 28 | 9 |
+| ⠀@L-HK | 1 | 35 | 0 | 1 | 105 |
+| RAKSTeam@rakbin007 | 2 | 32 | 0 | 4 | 96 |
+| newbie@gh-BumsooKim | 3 | 31 | 0 | 5 | 93 |
+| The Cola Bear@RubADuckDuck | 4 | 30 | 1 | 5 | 91 |
+| CheckMate@imyoumin | 5 | 28 | 2 | 6 | 86 |
+| JongGang@michael01924 | 6 | 28 | 1 | 7 | 85 |
+| NOTEZ@nsssslllp | 7 | 28 | 1 | 7 | 85 |
+| CanWin@chxhyxn | 8 | 27 | 0 | 9 | 81 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 9 | 27 | 0 | 9 | 81 |
+| KakaoBears@MaSeongHwan | 10 | 25 | 1 | 10 | 76 |
+| junghu@songjunghu | 11 | 22 | 0 | 14 | 66 |
+| EZ@CDoubleH | 12 | 13 | 23 | 0 | 62 |
+| Hangeul@dazzsoj | 13 | 20 | 1 | 15 | 61 |
+| tresed@dnalsitresed | 14 | 19 | 2 | 15 | 59 |
+| Yabeunosem@minju8843 | 15 | 17 | 6 | 13 | 57 |
+| Adventurer@Imhanbin123 | 16 | 17 | 2 | 17 | 53 |
+| BBIBBI@Eunyoung1223 | 17 | 15 | 7 | 14 | 52 |
+| LittleLyrical@ArfiTech | 18 | 14 | 8 | 14 | 50 |
+| WinWin@ychaaaan | 19 | 14 | 8 | 14 | 50 |
+| SpongeBob@sunjooahn | 20 | 14 | 7 | 15 | 49 |
+| ddubiddubap@wkdgnl123 | 21 | 13 | 9 | 14 | 48 |
+| MyTeam@jbr1tr | 22 | 14 | 6 | 16 | 48 |
+| Vvs@artech2w | 23 | 12 | 9 | 15 | 45 |
+| chungang@suhwan01 | 24 | 12 | 7 | 17 | 43 |
+| ChaBB@suewcho | 25 | 13 | 2 | 21 | 41 |
+| ionia@munyoubin | 26 | 13 | 1 | 22 | 40 |
+| HICPT@seanlee5808 | 27 | 11 | 4 | 21 | 37 |
+| Stop@lkm778u | 28 | 10 | 7 | 19 | 37 |
+| KHH@kimhh2880 | 29 | 7 | 4 | 25 | 25 |
+| PuangTeam@Namkyunghun | 30 | 8 | 1 | 27 | 25 |
+| 😎@dwgoon | 31 | 6 | 3 | 27 | 21 |
+| COOKIE@JIMINOFF | 32 | 6 | 1 | 29 | 19 |
+| Prism@eunyoungyi | 33 | 3 | 6 | 27 | 15 |
+| Chess@rex0053 | 34 | 3 | 4 | 29 | 13 |
+| RainbOw@HARY020 | 35 | 2 | 4 | 30 | 10 |
+| YonyT@alqmzhh92 | 36 | 2 | 4 | 30 | 10 |
+| MyTeam@bigoriginlee | 37 | 1 | 6 | 29 | 9 |
