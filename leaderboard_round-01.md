@@ -1,31 +1,32 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 10일 13시 51분
+최종 업데이트: 2020년 12월 10일 14시 01분
 
 
 
 
 | 참가자 | 순위 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| EZ@CDoubleH | 1 | 22 | 0 | 0 | 66 |
-| SSeong@sseong-mi | 2 | 21 | 0 | 1 | 63 |
-| ColaBearHunt@RubADuckDuck | 3 | 19 | 1 | 2 | 58 |
-| LittleLyrical@ArfiTech | 4 | 16 | 2 | 4 | 50 |
-| Yabeunosem@minju8843 | 5 | 15 | 3 | 4 | 48 |
-| BBIBBI@Eunyoung1223 | 6 | 15 | 2 | 5 | 47 |
-| FirestormEXH18@NepleDev | 7 | 14 | 2 | 6 | 44 |
-| DaDaDaDa@nsssslllp | 8 | 13 | 0 | 9 | 39 |
-| MyTeam@jbr1tr | 9 | 12 | 3 | 7 | 39 |
-| ChaBB@suewcho | 10 | 11 | 3 | 8 | 36 |
-| ionia@munyoubin | 11 | 9 | 2 | 11 | 29 |
-| Adventurer@Imhanbin123 | 12 | 9 | 2 | 11 | 29 |
-| KHH@kimhh2880 | 13 | 9 | 1 | 12 | 28 |
-| PuangTeam@Namkyunghun | 14 | 8 | 0 | 14 | 24 |
-| Hangeul@dazzsoj | 15 | 6 | 3 | 13 | 21 |
-| MyTeam@bigoriginlee | 16 | 6 | 3 | 13 | 21 |
-| chungang@suhwan01 | 17 | 4 | 8 | 10 | 20 |
-| Vvs@artech2w | 18 | 6 | 1 | 15 | 19 |
-| MyTeam@dwgoon | 19 | 5 | 3 | 14 | 18 |
-| RainbOw@HARY020 | 20 | 5 | 2 | 15 | 17 |
-| MyTeam@MaSeongHwan | 21 | 3 | 5 | 14 | 14 |
-| tresed@dnalsitresed | 22 | 2 | 0 | 20 | 6 |
-| newbie@gh-BumsooKim | 23 | 0 | 0 | 22 | 0 |
+| EZ@CDoubleH | 1 | 23 | 0 | 0 | 69 |
+| SSeong@sseong-mi | 2 | 22 | 0 | 1 | 66 |
+| DaDaDaDa@nsssslllp | 3 | 21 | 0 | 2 | 63 |
+| ColaBearHunt@RubADuckDuck | 4 | 19 | 1 | 3 | 58 |
+| LittleLyrical@ArfiTech | 5 | 16 | 3 | 4 | 51 |
+| BBIBBI@Eunyoung1223 | 6 | 15 | 4 | 4 | 49 |
+| Yabeunosem@minju8843 | 7 | 14 | 3 | 6 | 45 |
+| MyTeam@jbr1tr | 8 | 13 | 3 | 7 | 42 |
+| ChaBB@suewcho | 9 | 13 | 2 | 8 | 41 |
+| MyTeam@yejik1002 | 10 | 11 | 6 | 6 | 39 |
+| FirestormEXH18@NepleDev | 11 | 11 | 3 | 9 | 36 |
+| Adventurer@Imhanbin123 | 12 | 10 | 3 | 10 | 33 |
+| ionia@munyoubin | 13 | 9 | 3 | 11 | 30 |
+| KHH@kimhh2880 | 14 | 8 | 2 | 13 | 26 |
+| PuangTeam@Namkyunghun | 15 | 8 | 0 | 15 | 24 |
+| MyTeam@bigoriginlee | 16 | 6 | 3 | 14 | 21 |
+| Hangeul@dazzsoj | 17 | 5 | 4 | 14 | 19 |
+| MyTeam@dwgoon | 18 | 5 | 4 | 14 | 19 |
+| Vvs@artech2w | 19 | 5 | 1 | 17 | 16 |
+| chungang@suhwan01 | 20 | 2 | 10 | 11 | 16 |
+| RainbOw@HARY020 | 21 | 4 | 3 | 16 | 15 |
+| MyTeam@MaSeongHwan | 22 | 2 | 6 | 15 | 12 |
+| tresed@dnalsitresed | 23 | 2 | 0 | 21 | 6 |
+| newbie@gh-BumsooKim | 24 | 0 | 0 | 23 | 0 |
