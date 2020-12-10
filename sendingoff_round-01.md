@@ -7,5 +7,5 @@
 
 | 퇴장된 참가자 |
 |:---:|
-| SH_Team@sihumji00 |
 | MyTeam@yejik1002 |
+| SH_Team@sihumji00 |
