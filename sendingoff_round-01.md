@@ -1,12 +1,13 @@
 # Players sent off
-최종 업데이트: 2020년 12월 11일 11시 53분
+최종 업데이트: 2020년 12월 11일 11시 59분
 
 
-제출 코드에서 오류가 발생하는 경우 자동으로 퇴장됩니다.
+경기 중 오류가 발생하는 경우 자동으로 퇴장됩니다.
 
 
 | 퇴장된 참가자 |
 |:---:|
-| EZ@CDoubleH |
+| ChaBB@suewcho |
+| 도곡동 솜주먹@smjeon2410 |
 | 404 Not found@JIMINOFF |
 | SH_Team@sihumji00 |
