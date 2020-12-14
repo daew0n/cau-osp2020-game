@@ -1,5 +1,5 @@
 # Players sent off
-최종 업데이트: 2020년 12월 15일 04시 46분
+최종 업데이트: 2020년 12월 15일 04시 51분
 
 
 경기 중 오류가 발생하는 경우 자동으로 퇴장됩니다.
@@ -7,6 +7,4 @@
 
 | 퇴장된 참가자 |
 |:---:|
-| Gwajaeslave@sally1924 |
 | tresed@dnalsitresed |
-| SUPERULTRACAPSSHONGZZANG@dudcodi |
