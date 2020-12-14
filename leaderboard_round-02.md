@@ -1,47 +1,47 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 14일 23시 25분
+최종 업데이트: 2020년 12월 14일 23시 35분
 
 
 
 
 | 참가자 | 순위 | 경기수 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| LOLhagoshipda@rakbin007 | 1 | 38 | 32 | 2 | 4 | 98 |
-| hunsu@songse13 | 2 | 38 | 32 | 2 | 4 | 98 |
-| hello@underlunar0613 | 3 | 38 | 32 | 2 | 4 | 98 |
-| sskjhgod@da3414 | 4 | 38 | 30 | 2 | 6 | 92 |
-| coronaxxx@pjmkjjpk | 5 | 38 | 30 | 1 | 7 | 91 |
-| GameofThrone@MaSeongHwan | 6 | 38 | 29 | 2 | 7 | 89 |
-| FinalRoster@StackOut-K1m | 7 | 38 | 29 | 2 | 7 | 89 |
-| SPONGEBOB@sunjooahn | 8 | 38 | 28 | 0 | 10 | 84 |
+| coronaxxx@pjmkjjpk | 1 | 38 | 32 | 3 | 3 | 99 |
+| LOLhagoshipda@rakbin007 | 2 | 38 | 32 | 3 | 3 | 99 |
+| hunsu@songse13 | 3 | 38 | 32 | 3 | 3 | 99 |
+| hello@underlunar0613 | 4 | 38 | 32 | 3 | 3 | 99 |
+| sskjhgod@da3414 | 5 | 38 | 30 | 2 | 6 | 92 |
+| GameofThrone@MaSeongHwan | 6 | 38 | 30 | 2 | 6 | 92 |
+| FinalRoster@StackOut-K1m | 7 | 38 | 30 | 2 | 6 | 92 |
+| Guineapig@ychaaaan | 8 | 38 | 27 | 2 | 9 | 83 |
 | ANUN@suewcho | 9 | 38 | 26 | 1 | 11 | 79 |
-| LOOK@artech2w | 10 | 38 | 25 | 2 | 11 | 77 |
-| 💘JUDY💘@junsoo08 | 11 | 38 | 25 | 2 | 11 | 77 |
-| 세깅@yejik1002 | 12 | 38 | 25 | 2 | 11 | 77 |
-| NOTEZ@nsssslllp | 13 | 38 | 24 | 0 | 14 | 72 |
-| Guineapig@ychaaaan | 14 | 38 | 23 | 3 | 12 | 72 |
-| Stop@lkm778u | 15 | 38 | 23 | 0 | 15 | 69 |
-| 종강종강돌을던지자@Wisdom-Kim | 16 | 38 | 23 | 0 | 15 | 69 |
-| A@JIMINOFF | 17 | 38 | 19 | 3 | 16 | 60 |
-| newbie@gh-BumsooKim | 18 | 38 | 19 | 2 | 17 | 59 |
-| HICPT@seanlee5808 | 19 | 38 | 19 | 2 | 17 | 59 |
-| candy@sihumji00 | 20 | 38 | 19 | 1 | 18 | 58 |
-| LittleLyrical@ArfiTech | 21 | 38 | 18 | 2 | 18 | 56 |
-| AGANG@jbr1tr | 22 | 38 | 13 | 3 | 22 | 42 |
-| Null@L-HK | 23 | 38 | 12 | 6 | 20 | 42 |
-| NaDa@yjh9929 | 24 | 38 | 13 | 3 | 22 | 42 |
-| 맛집@yongjin13 | 25 | 38 | 13 | 1 | 24 | 40 |
-| Prism@eunyoungyi | 26 | 38 | 12 | 2 | 24 | 38 |
-| Yabeunosem@minju8843 | 27 | 38 | 12 | 2 | 24 | 38 |
-| ⚡Benzi⚡@soohnzzang | 28 | 38 | 12 | 2 | 24 | 38 |
-| PuangTeam@Namkyunghun | 29 | 38 | 12 | 1 | 25 | 37 |
-| ◝(⁰▿⁰)◜@sara-k1m | 30 | 38 | 10 | 3 | 25 | 33 |
-| 폭풍전사119@sukk719 | 31 | 38 | 10 | 2 | 26 | 32 |
-| PLZ@alqmzhh92 | 32 | 38 | 10 | 1 | 27 | 31 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 33 | 38 | 10 | 0 | 28 | 30 |
-| KHH@kimhh2880 | 34 | 38 | 10 | 0 | 28 | 30 |
-| Asgardian@ParkJh38 | 35 | 38 | 10 | 0 | 28 | 30 |
-| DYNAMITE@Eunyoung1223 | 36 | 38 | 9 | 2 | 27 | 29 |
-| peanut@kahyeon17 | 37 | 38 | 9 | 1 | 28 | 28 |
-| PUSHING@wkdgnl123 | 38 | 38 | 2 | 2 | 34 | 8 |
-| @CDoubleH | 39 | 38 | 0 | 0 | 38 | 0 |
+| SPONGEBOB@sunjooahn | 10 | 38 | 26 | 1 | 11 | 79 |
+| 세깅@yejik1002 | 11 | 38 | 25 | 2 | 11 | 77 |
+| LOOK@artech2w | 12 | 38 | 25 | 0 | 13 | 75 |
+| 💘JUDY💘@junsoo08 | 13 | 38 | 25 | 0 | 13 | 75 |
+| NOTEZ@nsssslllp | 14 | 38 | 24 | 0 | 14 | 72 |
+| 종강종강돌을던지자@Wisdom-Kim | 15 | 38 | 23 | 0 | 15 | 69 |
+| Stop@lkm778u | 16 | 38 | 22 | 0 | 16 | 66 |
+| A@JIMINOFF | 17 | 38 | 21 | 2 | 15 | 65 |
+| candy@sihumji00 | 18 | 38 | 21 | 1 | 16 | 64 |
+| HICPT@seanlee5808 | 19 | 38 | 20 | 1 | 17 | 61 |
+| LittleLyrical@ArfiTech | 20 | 38 | 19 | 1 | 18 | 58 |
+| Prism@eunyoungyi | 21 | 38 | 17 | 0 | 21 | 51 |
+| AGANG@jbr1tr | 22 | 38 | 15 | 2 | 21 | 47 |
+| NaDa@yjh9929 | 23 | 38 | 15 | 2 | 21 | 47 |
+| 맛집@yongjin13 | 24 | 38 | 15 | 1 | 22 | 46 |
+| PuangTeam@Namkyunghun | 25 | 38 | 14 | 1 | 23 | 43 |
+| ⚡Benzi⚡@soohnzzang | 26 | 38 | 14 | 0 | 24 | 42 |
+| Yabeunosem@minju8843 | 27 | 38 | 13 | 2 | 23 | 41 |
+| PLZ@alqmzhh92 | 28 | 38 | 12 | 1 | 25 | 37 |
+| Asgardian@ParkJh38 | 29 | 38 | 12 | 0 | 26 | 36 |
+| ◝(⁰▿⁰)◜@sara-k1m | 30 | 38 | 11 | 3 | 24 | 36 |
+| 폭풍전사119@sukk719 | 31 | 38 | 11 | 2 | 25 | 35 |
+| DYNAMITE@Eunyoung1223 | 32 | 38 | 11 | 1 | 26 | 34 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 33 | 38 | 11 | 0 | 27 | 33 |
+| peanut@kahyeon17 | 34 | 38 | 11 | 0 | 27 | 33 |
+| KHH@kimhh2880 | 35 | 38 | 5 | 0 | 33 | 15 |
+| PUSHING@wkdgnl123 | 36 | 38 | 5 | 0 | 33 | 15 |
+| Null@L-HK | 37 | 38 | 4 | 0 | 34 | 12 |
+| @CDoubleH | 38 | 38 | 0 | 1 | 37 | 1 |
+| newbie@gh-BumsooKim | 39 | 38 | 0 | 1 | 37 | 1 |
