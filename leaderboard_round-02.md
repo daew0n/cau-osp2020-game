@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 06시 56분
+최종 업데이트: 2020년 12월 15일 07시 01분
 
 
 
@@ -26,16 +26,16 @@
 | 💘JUDY💘@junsoo08 | 18 | 50 | 32 | 1 | 17 | 97 |
 | NOTEZ@nsssslllp | 19 | 50 | 30 | 0 | 20 | 90 |
 | 종강종강돌을던지자@Wisdom-Kim | 20 | 50 | 29 | 0 | 21 | 87 |
-| Abracadabra@JIMINOFF | 21 | 50 | 25 | 5 | 20 | 80 |
-| LittleLyrical@ArfiTech | 22 | 50 | 25 | 2 | 23 | 77 |
-| True_Damage@maritajee | 23 | 50 | 25 | 2 | 23 | 77 |
-| Stop@lkm778u | 24 | 50 | 24 | 3 | 23 | 75 |
+| LittleLyrical@ArfiTech | 21 | 50 | 25 | 2 | 23 | 77 |
+| Abracadabra@JIMINOFF | 22 | 50 | 24 | 5 | 21 | 77 |
+| Stop@lkm778u | 23 | 50 | 25 | 2 | 23 | 77 |
+| True_Damage@maritajee | 24 | 50 | 25 | 2 | 23 | 77 |
 | HICPT@seanlee5808 | 25 | 50 | 24 | 2 | 24 | 74 |
-| Gwajaeslave@sally1924 | 26 | 50 | 22 | 0 | 28 | 66 |
-| Prism@eunyoungyi | 27 | 50 | 20 | 2 | 28 | 62 |
-| GOD.OF.THUNDER@ParkJh38 | 28 | 50 | 20 | 2 | 28 | 62 |
-| 😎@hyunnni | 29 | 50 | 20 | 1 | 29 | 61 |
-| candy@sihumji00 | 30 | 50 | 20 | 1 | 29 | 61 |
+| 😎@hyunnni | 26 | 50 | 22 | 1 | 27 | 67 |
+| Gwajaeslave@sally1924 | 27 | 50 | 22 | 0 | 28 | 66 |
+| candy@sihumji00 | 28 | 50 | 21 | 1 | 28 | 64 |
+| Prism@eunyoungyi | 29 | 50 | 20 | 2 | 28 | 62 |
+| GOD.OF.THUNDER@ParkJh38 | 30 | 50 | 20 | 2 | 28 | 62 |
 | DYNAMITE@Eunyoung1223 | 31 | 50 | 19 | 0 | 31 | 57 |
 | AGANG@jbr1tr | 32 | 50 | 17 | 4 | 29 | 55 |
 | Why Should I@shindongmin11 | 33 | 50 | 17 | 4 | 29 | 55 |
@@ -44,16 +44,16 @@
 | SON7@jigajiga | 36 | 50 | 15 | 5 | 30 | 50 |
 | yomyom@jsjy0830 | 37 | 50 | 16 | 2 | 32 | 50 |
 | ⚡Benzi⚡@soohnzzang | 38 | 50 | 16 | 2 | 32 | 50 |
-| 맛집@yongjin13 | 39 | 50 | 14 | 1 | 35 | 43 |
-| PuangTeam@Namkyunghun | 40 | 50 | 14 | 0 | 36 | 42 |
-| peanut@kahyeon17 | 41 | 50 | 13 | 1 | 36 | 40 |
+| PuangTeam@Namkyunghun | 39 | 50 | 15 | 0 | 35 | 45 |
+| 맛집@yongjin13 | 40 | 50 | 13 | 2 | 35 | 41 |
+| peanut@kahyeon17 | 41 | 50 | 13 | 0 | 37 | 39 |
 | Yabeunosem@minju8843 | 42 | 50 | 12 | 2 | 36 | 38 |
 | ◝(⁰▿⁰)◜@sara-k1m | 43 | 50 | 10 | 4 | 36 | 34 |
 | W.O.@ksr1726 | 44 | 50 | 10 | 2 | 38 | 32 |
 | 폭풍전사119@sukk719 | 45 | 50 | 10 | 2 | 38 | 32 |
-| jmtggm@dlaJinsook6 | 46 | 50 | 6 | 2 | 42 | 20 |
-| Upload@HARY020 | 47 | 50 | 6 | 1 | 43 | 19 |
-| Null@L-HK | 48 | 50 | 5 | 2 | 43 | 17 |
-| PUSHING@wkdgnl123 | 49 | 50 | 3 | 1 | 46 | 10 |
+| Null@L-HK | 46 | 50 | 6 | 0 | 44 | 18 |
+| jmtggm@dlaJinsook6 | 47 | 50 | 5 | 2 | 43 | 17 |
+| Upload@HARY020 | 48 | 50 | 5 | 1 | 44 | 16 |
+| PUSHING@wkdgnl123 | 49 | 50 | 3 | 0 | 47 | 9 |
 | @CDoubleH | 50 | 50 | 0 | 1 | 49 | 1 |
 | newbie@gh-BumsooKim | 51 | 50 | 0 | 1 | 49 | 1 |
