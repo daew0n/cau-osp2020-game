@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 06시 01분
+최종 업데이트: 2020년 12월 15일 06시 06분
 
 
 
@@ -27,33 +27,33 @@
 | NOTEZ@nsssslllp | 19 | 50 | 30 | 0 | 20 | 90 |
 | 종강종강돌을던지자@Wisdom-Kim | 20 | 50 | 30 | 0 | 20 | 90 |
 | LittleLyrical@ArfiTech | 21 | 50 | 26 | 2 | 22 | 80 |
-| True_Damage@maritajee | 22 | 50 | 26 | 2 | 22 | 80 |
-| Abracadabra@JIMINOFF | 23 | 50 | 24 | 6 | 20 | 78 |
+| Abracadabra@JIMINOFF | 22 | 50 | 25 | 5 | 20 | 80 |
+| True_Damage@maritajee | 23 | 50 | 26 | 2 | 22 | 80 |
 | Stop@lkm778u | 24 | 50 | 25 | 2 | 23 | 77 |
 | HICPT@seanlee5808 | 25 | 50 | 25 | 2 | 23 | 77 |
 | Gwajaeslave@sally1924 | 26 | 50 | 23 | 0 | 27 | 69 |
 | Prism@eunyoungyi | 27 | 50 | 21 | 2 | 27 | 65 |
 | GOD.OF.THUNDER@ParkJh38 | 28 | 50 | 21 | 2 | 27 | 65 |
-| candy@sihumji00 | 29 | 50 | 21 | 1 | 28 | 64 |
+| candy@sihumji00 | 29 | 50 | 20 | 1 | 29 | 61 |
 | DYNAMITE@Eunyoung1223 | 30 | 50 | 19 | 0 | 31 | 57 |
-| AGANG@jbr1tr | 31 | 50 | 16 | 4 | 30 | 52 |
-| Why Should I@shindongmin11 | 32 | 50 | 16 | 4 | 30 | 52 |
-| Jg Gap@sunghyun2001 | 33 | 50 | 16 | 4 | 30 | 52 |
-| NaDa@yjh9929 | 34 | 50 | 16 | 4 | 30 | 52 |
-| 😎@hyunnni | 35 | 50 | 16 | 3 | 31 | 51 |
-| yomyom@jsjy0830 | 36 | 50 | 16 | 3 | 31 | 51 |
-| ⚡Benzi⚡@soohnzzang | 37 | 50 | 16 | 3 | 31 | 51 |
-| SON7@jigajiga | 38 | 50 | 15 | 5 | 30 | 50 |
+| 😎@hyunnni | 31 | 50 | 18 | 1 | 31 | 55 |
+| AGANG@jbr1tr | 32 | 50 | 16 | 4 | 30 | 52 |
+| Why Should I@shindongmin11 | 33 | 50 | 16 | 4 | 30 | 52 |
+| Jg Gap@sunghyun2001 | 34 | 50 | 16 | 4 | 30 | 52 |
+| NaDa@yjh9929 | 35 | 50 | 16 | 4 | 30 | 52 |
+| SON7@jigajiga | 36 | 50 | 15 | 5 | 30 | 50 |
+| yomyom@jsjy0830 | 37 | 50 | 16 | 2 | 32 | 50 |
+| ⚡Benzi⚡@soohnzzang | 38 | 50 | 16 | 2 | 32 | 50 |
 | PuangTeam@Namkyunghun | 39 | 50 | 15 | 0 | 35 | 45 |
 | Yabeunosem@minju8843 | 40 | 50 | 13 | 2 | 35 | 41 |
 | 맛집@yongjin13 | 41 | 50 | 13 | 1 | 36 | 40 |
 | peanut@kahyeon17 | 42 | 50 | 13 | 0 | 37 | 39 |
-| ◝(⁰▿⁰)◜@sara-k1m | 43 | 50 | 10 | 4 | 36 | 34 |
-| W.O.@ksr1726 | 44 | 50 | 10 | 2 | 38 | 32 |
+| W.O.@ksr1726 | 43 | 50 | 10 | 2 | 38 | 32 |
+| ◝(⁰▿⁰)◜@sara-k1m | 44 | 50 | 9 | 5 | 36 | 32 |
 | 폭풍전사119@sukk719 | 45 | 50 | 10 | 2 | 38 | 32 |
 | jmtggm@dlaJinsook6 | 46 | 50 | 6 | 2 | 42 | 20 |
-| Upload@HARY020 | 47 | 50 | 5 | 2 | 43 | 17 |
-| Null@L-HK | 48 | 50 | 4 | 1 | 45 | 13 |
-| PUSHING@wkdgnl123 | 49 | 50 | 3 | 0 | 47 | 9 |
+| Upload@HARY020 | 47 | 50 | 5 | 1 | 44 | 16 |
+| Null@L-HK | 48 | 50 | 5 | 1 | 44 | 16 |
+| PUSHING@wkdgnl123 | 49 | 50 | 3 | 1 | 46 | 10 |
 | @CDoubleH | 50 | 50 | 0 | 1 | 49 | 1 |
 | newbie@gh-BumsooKim | 51 | 50 | 0 | 1 | 49 | 1 |
