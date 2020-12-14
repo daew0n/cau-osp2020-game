@@ -30,11 +30,18 @@
 - 코드에 문제가 있는 경우 퇴장 처리.
    - 제출한 코드에서 `print()`를 사용할 수 없음.
 
+## 라운드 최종 점수 계산
+  획득한 승점 $X$에 대해, 아래 수식에 근거하여 변환 계수 $a$와 $b$를 구하고, $aX+b$를 최종 점수(final score)로 한다.
+  - $aX_{max}+b = 100.$
+  - $aX_{mean}+b = 80.$
+
+
 ## 라운드 및 제한 규칙 정의
 - 제 1 라운드
     - 마감일: 12월 11일 금요일 11:59 PM
     - 규칙: [constraints-round-01](constraints/constraints-round-01.ipynb)
 	- 명예의전당: [hall-of-fame/round-01](hall-of-fame/round-01)
+	- 최종 점수: [finalscore-round-01]
 - 제 2 라운드
     - 마감일: 12월 15일 화요일 23:59 PM
     - 규칙: [constraints-round-02](constraints/constraints-round-02.ipynb)
