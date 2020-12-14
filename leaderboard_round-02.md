@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 14일 22시 45분
+최종 업데이트: 2020년 12월 14일 22시 47분
 
 
 
@@ -24,8 +24,8 @@
 | LittleLyrical@ArfiTech | 16 | 34 | 16 | 2 | 16 | 50 |
 | newbie@gh-BumsooKim | 17 | 34 | 16 | 2 | 16 | 50 |
 | HICPT@seanlee5808 | 18 | 34 | 16 | 2 | 16 | 50 |
-| candy@sihumji00 | 19 | 34 | 16 | 0 | 18 | 48 |
-| Bronze@Wisdom-Kim | 20 | 34 | 16 | 0 | 18 | 48 |
+| Bronze@Wisdom-Kim | 19 | 34 | 16 | 0 | 18 | 48 |
+| candy@sihumji00 | 20 | 34 | 15 | 0 | 19 | 45 |
 | A@JIMINOFF | 21 | 34 | 14 | 1 | 19 | 43 |
 | ⚡Benzi⚡@soohnzzang | 22 | 34 | 13 | 0 | 21 | 39 |
 | AGANG@jbr1tr | 23 | 34 | 12 | 2 | 20 | 38 |
@@ -35,9 +35,9 @@
 | DYNAMITE@Eunyoung1223 | 27 | 34 | 10 | 1 | 23 | 31 |
 | 폭풍전사119@sukk719 | 28 | 34 | 10 | 1 | 23 | 31 |
 | ◝(⁰▿⁰)◜@sara-k1m | 29 | 34 | 8 | 4 | 22 | 28 |
-| Prism@eunyoungyi | 30 | 34 | 7 | 3 | 24 | 24 |
-| PuangTeam@Namkyunghun | 31 | 34 | 7 | 0 | 27 | 21 |
-| Null@L-HK | 32 | 34 | 4 | 1 | 29 | 13 |
+| Prism@eunyoungyi | 30 | 34 | 8 | 2 | 24 | 26 |
+| PuangTeam@Namkyunghun | 31 | 34 | 6 | 1 | 27 | 19 |
+| Null@L-HK | 32 | 34 | 5 | 1 | 28 | 16 |
 | peanut@kahyeon17 | 33 | 34 | 3 | 1 | 30 | 10 |
 | PUSHING@wkdgnl123 | 34 | 34 | 3 | 0 | 31 | 9 |
 | @CDoubleH | 35 | 34 | 0 | 0 | 34 | 0 |
