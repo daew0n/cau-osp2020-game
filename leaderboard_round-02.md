@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 08시 06분
+최종 업데이트: 2020년 12월 15일 08시 11분
 
 
 
@@ -45,16 +45,16 @@
 | SON7@jigajiga | 37 | 51 | 15 | 5 | 31 | 50 |
 | yomyom@jsjy0830 | 38 | 51 | 16 | 2 | 33 | 50 |
 | ⚡Benzi⚡@soohnzzang | 39 | 51 | 16 | 2 | 33 | 50 |
-| 맛집@yongjin13 | 40 | 51 | 14 | 2 | 35 | 44 |
-| PuangTeam@Namkyunghun | 41 | 51 | 14 | 1 | 36 | 43 |
+| PuangTeam@Namkyunghun | 40 | 51 | 15 | 1 | 35 | 46 |
+| 맛집@yongjin13 | 41 | 51 | 14 | 2 | 35 | 44 |
 | peanut@kahyeon17 | 42 | 51 | 14 | 0 | 37 | 42 |
 | Yabeunosem@minju8843 | 43 | 51 | 12 | 2 | 37 | 38 |
 | ◝(⁰▿⁰)◜@sara-k1m | 44 | 51 | 10 | 4 | 37 | 34 |
 | W.O.@ksr1726 | 45 | 51 | 10 | 2 | 39 | 32 |
 | 폭풍전사119@sukk719 | 46 | 51 | 10 | 2 | 39 | 32 |
-| Null@L-HK | 47 | 51 | 8 | 0 | 43 | 24 |
-| jmtggm@dlaJinsook6 | 48 | 51 | 6 | 2 | 43 | 20 |
-| Upload@HARY020 | 49 | 51 | 5 | 1 | 45 | 16 |
+| Upload@HARY020 | 47 | 51 | 6 | 1 | 44 | 19 |
+| Null@L-HK | 48 | 51 | 6 | 1 | 44 | 19 |
+| jmtggm@dlaJinsook6 | 49 | 51 | 5 | 3 | 43 | 18 |
 | PUSHING@wkdgnl123 | 50 | 51 | 3 | 0 | 48 | 9 |
 | @CDoubleH | 51 | 51 | 0 | 1 | 50 | 1 |
 | newbie@gh-BumsooKim | 52 | 51 | 0 | 1 | 50 | 1 |
