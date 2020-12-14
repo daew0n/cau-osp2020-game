@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 00시 30분
+최종 업데이트: 2020년 12월 15일 00시 35분
 
 
 
@@ -34,15 +34,15 @@
 | NaDa@yjh9929 | 26 | 39 | 14 | 2 | 23 | 44 |
 | 맛집@yongjin13 | 27 | 39 | 13 | 1 | 25 | 40 |
 | PuangTeam@Namkyunghun | 28 | 39 | 13 | 0 | 26 | 39 |
-| ⚡Benzi⚡@soohnzzang | 29 | 39 | 11 | 2 | 26 | 35 |
+| ⚡Benzi⚡@soohnzzang | 29 | 39 | 12 | 1 | 26 | 37 |
 | Yabeunosem@minju8843 | 30 | 39 | 11 | 1 | 27 | 34 |
 | DYNAMITE@Eunyoung1223 | 31 | 39 | 10 | 1 | 28 | 31 |
 | SUPERULTRACAPSSHONGZZANG@dudcodi | 32 | 39 | 10 | 0 | 29 | 30 |
 | peanut@kahyeon17 | 33 | 39 | 10 | 0 | 29 | 30 |
 | 폭풍전사119@sukk719 | 34 | 39 | 9 | 2 | 28 | 29 |
 | ◝(⁰▿⁰)◜@sara-k1m | 35 | 39 | 8 | 3 | 28 | 27 |
-| Null@L-HK | 36 | 39 | 5 | 1 | 33 | 16 |
-| W.O.@ksr1726 | 37 | 39 | 4 | 0 | 35 | 12 |
+| W.O.@ksr1726 | 36 | 39 | 5 | 0 | 34 | 15 |
+| Null@L-HK | 37 | 39 | 4 | 0 | 35 | 12 |
 | PUSHING@wkdgnl123 | 38 | 39 | 4 | 0 | 35 | 12 |
 | @CDoubleH | 39 | 39 | 0 | 1 | 38 | 1 |
 | newbie@gh-BumsooKim | 40 | 39 | 0 | 1 | 38 | 1 |
