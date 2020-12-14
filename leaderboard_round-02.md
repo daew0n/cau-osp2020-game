@@ -1,22 +1,23 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 14일 14시 00분
+최종 업데이트: 2020년 12월 14일 14시 10분
 
 
 
 
 | 참가자 | 순위 | 경기수 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Stop@lkm778u | 1 | 13 | 6 | 7 | 0 | 25 |
-| PuangTeam@Namkyunghun | 2 | 13 | 3 | 10 | 0 | 19 |
-| HICPT@seanlee5808 | 3 | 13 | 3 | 10 | 0 | 19 |
-| hunsu@songse13 | 4 | 13 | 3 | 10 | 0 | 19 |
-| KHH@kimhh2880 | 5 | 13 | 3 | 9 | 1 | 18 |
-| @suewcho | 6 | 13 | 3 | 9 | 1 | 18 |
-| Yabeunosem@minju8843 | 7 | 13 | 2 | 11 | 0 | 17 |
-| 😎@dwgoon | 8 | 13 | 2 | 10 | 1 | 16 |
-| DYNAMITE@Eunyoung1223 | 9 | 12 | 2 | 10 | 0 | 16 |
-| coronaxxx@pjmkjjpk | 10 | 13 | 2 | 10 | 1 | 16 |
-| 경@yejik1002 | 11 | 12 | 3 | 5 | 4 | 14 |
-| MyTeam@bigoriginlee | 12 | 13 | 0 | 8 | 5 | 8 |
-| peanut@kahyeon17 | 13 | 13 | 0 | 4 | 9 | 4 |
-| NOTEZ@nsssslllp | 14 | 13 | 0 | 3 | 10 | 3 |
+| Stop@lkm778u | 1 | 14 | 8 | 6 | 0 | 30 |
+| PrayMetaGame@MaSeongHwan | 2 | 14 | 5 | 8 | 1 | 23 |
+| PuangTeam@Namkyunghun | 3 | 14 | 4 | 10 | 0 | 22 |
+| HICPT@seanlee5808 | 4 | 14 | 4 | 10 | 0 | 22 |
+| 😎@dwgoon | 5 | 14 | 3 | 10 | 1 | 19 |
+| coronaxxx@pjmkjjpk | 6 | 14 | 3 | 10 | 1 | 19 |
+| @suewcho | 7 | 14 | 3 | 10 | 1 | 19 |
+| KHH@kimhh2880 | 8 | 14 | 3 | 9 | 2 | 18 |
+| Yabeunosem@minju8843 | 9 | 14 | 2 | 12 | 0 | 18 |
+| hunsu@songse13 | 10 | 14 | 4 | 6 | 4 | 18 |
+| 경@yejik1002 | 11 | 14 | 4 | 5 | 5 | 17 |
+| DYNAMITE@Eunyoung1223 | 12 | 14 | 1 | 11 | 2 | 14 |
+| MyTeam@bigoriginlee | 13 | 14 | 0 | 9 | 5 | 9 |
+| peanut@kahyeon17 | 14 | 14 | 1 | 1 | 12 | 4 |
+| NOTEZ@nsssslllp | 15 | 14 | 0 | 3 | 11 | 3 |
