@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 14일 19시 25분
+최종 업데이트: 2020년 12월 14일 19시 30분
 
 
 
@@ -13,6 +13,6 @@
 | AGANG@jbr1tr | 5 | 9 | 4 | 1 | 4 | 13 |
 | PuangTeam@Namkyunghun | 6 | 9 | 3 | 2 | 4 | 11 |
 | ◝(⁰▿⁰)◜@sara-k1m | 7 | 9 | 3 | 1 | 5 | 10 |
-| Team candy@sihumji00 | 8 | 9 | 2 | 0 | 7 | 6 |
+| candy@sihumji00 | 8 | 9 | 2 | 0 | 7 | 6 |
 | hunsu@songse13 | 9 | 9 | 1 | 0 | 8 | 3 |
 | Overwatch@CDoubleH | 10 | 9 | 0 | 0 | 9 | 0 |
