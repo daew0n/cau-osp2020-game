@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 07시 01분
+최종 업데이트: 2020년 12월 15일 07시 06분
 
 
 
@@ -28,14 +28,14 @@
 | 종강종강돌을던지자@Wisdom-Kim | 20 | 50 | 29 | 0 | 21 | 87 |
 | LittleLyrical@ArfiTech | 21 | 50 | 25 | 2 | 23 | 77 |
 | Abracadabra@JIMINOFF | 22 | 50 | 24 | 5 | 21 | 77 |
-| Stop@lkm778u | 23 | 50 | 25 | 2 | 23 | 77 |
-| True_Damage@maritajee | 24 | 50 | 25 | 2 | 23 | 77 |
+| True_Damage@maritajee | 23 | 50 | 25 | 2 | 23 | 77 |
+| Stop@lkm778u | 24 | 50 | 24 | 2 | 24 | 74 |
 | HICPT@seanlee5808 | 25 | 50 | 24 | 2 | 24 | 74 |
 | 😎@hyunnni | 26 | 50 | 22 | 1 | 27 | 67 |
 | Gwajaeslave@sally1924 | 27 | 50 | 22 | 0 | 28 | 66 |
-| candy@sihumji00 | 28 | 50 | 21 | 1 | 28 | 64 |
-| Prism@eunyoungyi | 29 | 50 | 20 | 2 | 28 | 62 |
-| GOD.OF.THUNDER@ParkJh38 | 30 | 50 | 20 | 2 | 28 | 62 |
+| Prism@eunyoungyi | 28 | 50 | 20 | 2 | 28 | 62 |
+| GOD.OF.THUNDER@ParkJh38 | 29 | 50 | 20 | 2 | 28 | 62 |
+| candy@sihumji00 | 30 | 50 | 20 | 2 | 28 | 62 |
 | DYNAMITE@Eunyoung1223 | 31 | 50 | 19 | 0 | 31 | 57 |
 | AGANG@jbr1tr | 32 | 50 | 17 | 4 | 29 | 55 |
 | Why Should I@shindongmin11 | 33 | 50 | 17 | 4 | 29 | 55 |
@@ -51,8 +51,8 @@
 | ◝(⁰▿⁰)◜@sara-k1m | 43 | 50 | 10 | 4 | 36 | 34 |
 | W.O.@ksr1726 | 44 | 50 | 10 | 2 | 38 | 32 |
 | 폭풍전사119@sukk719 | 45 | 50 | 10 | 2 | 38 | 32 |
-| Null@L-HK | 46 | 50 | 6 | 0 | 44 | 18 |
-| jmtggm@dlaJinsook6 | 47 | 50 | 5 | 2 | 43 | 17 |
+| jmtggm@dlaJinsook6 | 46 | 50 | 6 | 2 | 42 | 20 |
+| Null@L-HK | 47 | 50 | 6 | 1 | 43 | 19 |
 | Upload@HARY020 | 48 | 50 | 5 | 1 | 44 | 16 |
 | PUSHING@wkdgnl123 | 49 | 50 | 3 | 0 | 47 | 9 |
 | @CDoubleH | 50 | 50 | 0 | 1 | 49 | 1 |
