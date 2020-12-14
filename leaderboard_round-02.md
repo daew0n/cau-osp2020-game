@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 14일 23시 20분
+최종 업데이트: 2020년 12월 14일 23시 25분
 
 
 
@@ -22,26 +22,26 @@
 | Guineapig@ychaaaan | 14 | 38 | 23 | 3 | 12 | 72 |
 | Stop@lkm778u | 15 | 38 | 23 | 0 | 15 | 69 |
 | 종강종강돌을던지자@Wisdom-Kim | 16 | 38 | 23 | 0 | 15 | 69 |
-| A@JIMINOFF | 17 | 38 | 20 | 2 | 16 | 62 |
-| candy@sihumji00 | 18 | 38 | 20 | 1 | 17 | 61 |
-| newbie@gh-BumsooKim | 19 | 38 | 19 | 2 | 17 | 59 |
-| HICPT@seanlee5808 | 20 | 38 | 19 | 2 | 17 | 59 |
+| A@JIMINOFF | 17 | 38 | 19 | 3 | 16 | 60 |
+| newbie@gh-BumsooKim | 18 | 38 | 19 | 2 | 17 | 59 |
+| HICPT@seanlee5808 | 19 | 38 | 19 | 2 | 17 | 59 |
+| candy@sihumji00 | 20 | 38 | 19 | 1 | 18 | 58 |
 | LittleLyrical@ArfiTech | 21 | 38 | 18 | 2 | 18 | 56 |
-| AGANG@jbr1tr | 22 | 38 | 14 | 2 | 22 | 44 |
-| NaDa@yjh9929 | 23 | 38 | 14 | 2 | 22 | 44 |
-| 맛집@yongjin13 | 24 | 38 | 14 | 1 | 23 | 43 |
-| Yabeunosem@minju8843 | 25 | 38 | 13 | 2 | 23 | 41 |
-| Prism@eunyoungyi | 26 | 38 | 13 | 1 | 24 | 40 |
-| PuangTeam@Namkyunghun | 27 | 38 | 13 | 1 | 24 | 40 |
-| ⚡Benzi⚡@soohnzzang | 28 | 38 | 13 | 1 | 24 | 40 |
-| ◝(⁰▿⁰)◜@sara-k1m | 29 | 38 | 11 | 3 | 24 | 36 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 30 | 38 | 11 | 0 | 27 | 33 |
-| Asgardian@ParkJh38 | 31 | 38 | 11 | 0 | 27 | 33 |
-| 폭풍전사119@sukk719 | 32 | 38 | 10 | 2 | 26 | 32 |
-| PLZ@alqmzhh92 | 33 | 38 | 10 | 1 | 27 | 31 |
-| DYNAMITE@Eunyoung1223 | 34 | 38 | 10 | 1 | 27 | 31 |
-| KHH@kimhh2880 | 35 | 38 | 10 | 0 | 28 | 30 |
-| peanut@kahyeon17 | 36 | 38 | 9 | 1 | 28 | 28 |
-| Null@L-HK | 37 | 38 | 5 | 0 | 33 | 15 |
+| AGANG@jbr1tr | 22 | 38 | 13 | 3 | 22 | 42 |
+| Null@L-HK | 23 | 38 | 12 | 6 | 20 | 42 |
+| NaDa@yjh9929 | 24 | 38 | 13 | 3 | 22 | 42 |
+| 맛집@yongjin13 | 25 | 38 | 13 | 1 | 24 | 40 |
+| Prism@eunyoungyi | 26 | 38 | 12 | 2 | 24 | 38 |
+| Yabeunosem@minju8843 | 27 | 38 | 12 | 2 | 24 | 38 |
+| ⚡Benzi⚡@soohnzzang | 28 | 38 | 12 | 2 | 24 | 38 |
+| PuangTeam@Namkyunghun | 29 | 38 | 12 | 1 | 25 | 37 |
+| ◝(⁰▿⁰)◜@sara-k1m | 30 | 38 | 10 | 3 | 25 | 33 |
+| 폭풍전사119@sukk719 | 31 | 38 | 10 | 2 | 26 | 32 |
+| PLZ@alqmzhh92 | 32 | 38 | 10 | 1 | 27 | 31 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 33 | 38 | 10 | 0 | 28 | 30 |
+| KHH@kimhh2880 | 34 | 38 | 10 | 0 | 28 | 30 |
+| Asgardian@ParkJh38 | 35 | 38 | 10 | 0 | 28 | 30 |
+| DYNAMITE@Eunyoung1223 | 36 | 38 | 9 | 2 | 27 | 29 |
+| peanut@kahyeon17 | 37 | 38 | 9 | 1 | 28 | 28 |
 | PUSHING@wkdgnl123 | 38 | 38 | 2 | 2 | 34 | 8 |
 | @CDoubleH | 39 | 38 | 0 | 0 | 38 | 0 |
