@@ -1,17 +1,17 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 03시 55분
+최종 업데이트: 2020년 12월 15일 04시 01분
 
 
 
 
 | 참가자 | 순위 | 경기수 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 세깅@yejik1002 | 1 | 47 | 44 | 0 | 3 | 132 |
-| 4@chxhyxn | 2 | 47 | 40 | 4 | 3 | 124 |
-| coronaxxx@pjmkjjpk | 3 | 47 | 39 | 4 | 4 | 121 |
-| LOLhagoshipda@rakbin007 | 4 | 47 | 39 | 4 | 4 | 121 |
-| hunsu@songse13 | 5 | 47 | 39 | 4 | 4 | 121 |
-| hello@underlunar0613 | 6 | 47 | 39 | 4 | 4 | 121 |
+| 5@chxhyxn | 1 | 47 | 43 | 1 | 3 | 130 |
+| 세깅@yejik1002 | 2 | 47 | 43 | 1 | 3 | 130 |
+| coronaxxx@pjmkjjpk | 3 | 47 | 39 | 3 | 5 | 120 |
+| LOLhagoshipda@rakbin007 | 4 | 47 | 39 | 3 | 5 | 120 |
+| hunsu@songse13 | 5 | 47 | 39 | 3 | 5 | 120 |
+| hello@underlunar0613 | 6 | 47 | 39 | 3 | 5 | 120 |
 | sskjhgod@da3414 | 7 | 47 | 37 | 2 | 8 | 113 |
 | apto990tm@MaSeongHwan | 8 | 47 | 37 | 2 | 8 | 113 |
 | FinalRoster@StackOut-K1m | 9 | 47 | 37 | 2 | 8 | 113 |
@@ -25,16 +25,16 @@
 | 💘JUDY💘@junsoo08 | 17 | 47 | 30 | 1 | 16 | 91 |
 | NOTEZ@nsssslllp | 18 | 47 | 28 | 0 | 19 | 84 |
 | 종강종강돌을던지자@Wisdom-Kim | 19 | 47 | 28 | 0 | 19 | 84 |
-| Abracadabra@JIMINOFF | 20 | 47 | 24 | 5 | 18 | 77 |
+| Abracadabra@JIMINOFF | 20 | 47 | 25 | 5 | 17 | 80 |
 | Stop@lkm778u | 21 | 47 | 24 | 3 | 20 | 75 |
 | LittleLyrical@ArfiTech | 22 | 47 | 24 | 2 | 21 | 74 |
 | True_Damage@maritajee | 23 | 47 | 24 | 2 | 21 | 74 |
 | HICPT@seanlee5808 | 24 | 47 | 23 | 2 | 22 | 71 |
-| candy@sihumji00 | 25 | 47 | 20 | 1 | 26 | 61 |
-| Prism@eunyoungyi | 26 | 47 | 19 | 3 | 25 | 60 |
-| GOD.OF.THUNDER@ParkJh38 | 27 | 47 | 19 | 3 | 25 | 60 |
-| DYNAMITE@Eunyoung1223 | 28 | 47 | 19 | 0 | 28 | 57 |
-| Gwajaeslave@sally1924 | 29 | 47 | 18 | 2 | 27 | 56 |
+| candy@sihumji00 | 25 | 47 | 21 | 1 | 25 | 64 |
+| Gwajaeslave@sally1924 | 26 | 47 | 21 | 0 | 26 | 63 |
+| Prism@eunyoungyi | 27 | 47 | 19 | 2 | 26 | 59 |
+| GOD.OF.THUNDER@ParkJh38 | 28 | 47 | 19 | 2 | 26 | 59 |
+| DYNAMITE@Eunyoung1223 | 29 | 47 | 18 | 0 | 29 | 54 |
 | AGANG@jbr1tr | 30 | 47 | 17 | 2 | 28 | 53 |
 | Jg Gap@sunghyun2001 | 31 | 47 | 17 | 2 | 28 | 53 |
 | NaDa@yjh9929 | 32 | 47 | 17 | 2 | 28 | 53 |
@@ -48,9 +48,9 @@
 | W.O.@ksr1726 | 40 | 47 | 11 | 2 | 34 | 35 |
 | 폭풍전사119@sukk719 | 41 | 47 | 11 | 2 | 34 | 35 |
 | ◝(⁰▿⁰)◜@sara-k1m | 42 | 47 | 10 | 3 | 34 | 33 |
-| jmtggm@dlaJinsook6 | 43 | 47 | 7 | 2 | 38 | 23 |
-| SON7@jigajiga | 44 | 47 | 7 | 2 | 38 | 23 |
-| Null@L-HK | 45 | 47 | 6 | 0 | 41 | 18 |
+| jmtggm@dlaJinsook6 | 43 | 47 | 6 | 3 | 38 | 21 |
+| SON7@jigajiga | 44 | 47 | 6 | 3 | 38 | 21 |
+| Null@L-HK | 45 | 47 | 5 | 2 | 40 | 17 |
 | PUSHING@wkdgnl123 | 46 | 47 | 4 | 0 | 43 | 12 |
 | @CDoubleH | 47 | 47 | 0 | 1 | 46 | 1 |
 | newbie@gh-BumsooKim | 48 | 47 | 0 | 1 | 46 | 1 |
