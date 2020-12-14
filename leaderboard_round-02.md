@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 06시 51분
+최종 업데이트: 2020년 12월 15일 06시 56분
 
 
 
@@ -25,35 +25,35 @@
 | PLZ@alqmzhh92 | 17 | 50 | 32 | 1 | 17 | 97 |
 | 💘JUDY💘@junsoo08 | 18 | 50 | 32 | 1 | 17 | 97 |
 | NOTEZ@nsssslllp | 19 | 50 | 30 | 0 | 20 | 90 |
-| 종강종강돌을던지자@Wisdom-Kim | 20 | 50 | 30 | 0 | 20 | 90 |
-| Abracadabra@JIMINOFF | 21 | 50 | 24 | 6 | 20 | 78 |
+| 종강종강돌을던지자@Wisdom-Kim | 20 | 50 | 29 | 0 | 21 | 87 |
+| Abracadabra@JIMINOFF | 21 | 50 | 25 | 5 | 20 | 80 |
 | LittleLyrical@ArfiTech | 22 | 50 | 25 | 2 | 23 | 77 |
-| Stop@lkm778u | 23 | 50 | 25 | 2 | 23 | 77 |
-| True_Damage@maritajee | 24 | 50 | 25 | 2 | 23 | 77 |
-| HICPT@seanlee5808 | 25 | 50 | 25 | 2 | 23 | 77 |
-| 😎@hyunnni | 26 | 50 | 24 | 1 | 25 | 73 |
-| Gwajaeslave@sally1924 | 27 | 50 | 22 | 0 | 28 | 66 |
-| candy@sihumji00 | 28 | 50 | 21 | 1 | 28 | 64 |
-| Prism@eunyoungyi | 29 | 50 | 20 | 2 | 28 | 62 |
-| GOD.OF.THUNDER@ParkJh38 | 30 | 50 | 20 | 2 | 28 | 62 |
+| True_Damage@maritajee | 23 | 50 | 25 | 2 | 23 | 77 |
+| Stop@lkm778u | 24 | 50 | 24 | 3 | 23 | 75 |
+| HICPT@seanlee5808 | 25 | 50 | 24 | 2 | 24 | 74 |
+| Gwajaeslave@sally1924 | 26 | 50 | 22 | 0 | 28 | 66 |
+| Prism@eunyoungyi | 27 | 50 | 20 | 2 | 28 | 62 |
+| GOD.OF.THUNDER@ParkJh38 | 28 | 50 | 20 | 2 | 28 | 62 |
+| 😎@hyunnni | 29 | 50 | 20 | 1 | 29 | 61 |
+| candy@sihumji00 | 30 | 50 | 20 | 1 | 29 | 61 |
 | DYNAMITE@Eunyoung1223 | 31 | 50 | 19 | 0 | 31 | 57 |
-| AGANG@jbr1tr | 32 | 50 | 16 | 4 | 30 | 52 |
-| Why Should I@shindongmin11 | 33 | 50 | 16 | 4 | 30 | 52 |
-| Jg Gap@sunghyun2001 | 34 | 50 | 16 | 4 | 30 | 52 |
-| NaDa@yjh9929 | 35 | 50 | 16 | 4 | 30 | 52 |
+| AGANG@jbr1tr | 32 | 50 | 17 | 4 | 29 | 55 |
+| Why Should I@shindongmin11 | 33 | 50 | 17 | 4 | 29 | 55 |
+| Jg Gap@sunghyun2001 | 34 | 50 | 17 | 4 | 29 | 55 |
+| NaDa@yjh9929 | 35 | 50 | 17 | 4 | 29 | 55 |
 | SON7@jigajiga | 36 | 50 | 15 | 5 | 30 | 50 |
 | yomyom@jsjy0830 | 37 | 50 | 16 | 2 | 32 | 50 |
 | ⚡Benzi⚡@soohnzzang | 38 | 50 | 16 | 2 | 32 | 50 |
-| PuangTeam@Namkyunghun | 39 | 50 | 15 | 0 | 35 | 45 |
-| peanut@kahyeon17 | 40 | 50 | 14 | 0 | 36 | 42 |
-| 맛집@yongjin13 | 41 | 50 | 13 | 1 | 36 | 40 |
+| 맛집@yongjin13 | 39 | 50 | 14 | 1 | 35 | 43 |
+| PuangTeam@Namkyunghun | 40 | 50 | 14 | 0 | 36 | 42 |
+| peanut@kahyeon17 | 41 | 50 | 13 | 1 | 36 | 40 |
 | Yabeunosem@minju8843 | 42 | 50 | 12 | 2 | 36 | 38 |
 | ◝(⁰▿⁰)◜@sara-k1m | 43 | 50 | 10 | 4 | 36 | 34 |
 | W.O.@ksr1726 | 44 | 50 | 10 | 2 | 38 | 32 |
 | 폭풍전사119@sukk719 | 45 | 50 | 10 | 2 | 38 | 32 |
 | jmtggm@dlaJinsook6 | 46 | 50 | 6 | 2 | 42 | 20 |
 | Upload@HARY020 | 47 | 50 | 6 | 1 | 43 | 19 |
-| PUSHING@wkdgnl123 | 48 | 50 | 4 | 0 | 46 | 12 |
-| Null@L-HK | 49 | 50 | 2 | 0 | 48 | 6 |
+| Null@L-HK | 48 | 50 | 5 | 2 | 43 | 17 |
+| PUSHING@wkdgnl123 | 49 | 50 | 3 | 1 | 46 | 10 |
 | @CDoubleH | 50 | 50 | 0 | 1 | 49 | 1 |
 | newbie@gh-BumsooKim | 51 | 50 | 0 | 1 | 49 | 1 |
