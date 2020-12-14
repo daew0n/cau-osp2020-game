@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 14일 23시 35분
+최종 업데이트: 2020년 12월 14일 23시 40분
 
 
 
@@ -17,8 +17,8 @@
 | ANUN@suewcho | 9 | 38 | 26 | 1 | 11 | 79 |
 | SPONGEBOB@sunjooahn | 10 | 38 | 26 | 1 | 11 | 79 |
 | 세깅@yejik1002 | 11 | 38 | 25 | 2 | 11 | 77 |
-| LOOK@artech2w | 12 | 38 | 25 | 0 | 13 | 75 |
-| 💘JUDY💘@junsoo08 | 13 | 38 | 25 | 0 | 13 | 75 |
+| 💘JUDY💘@junsoo08 | 12 | 38 | 25 | 0 | 13 | 75 |
+| LOOK@artech2w | 13 | 38 | 24 | 0 | 14 | 72 |
 | NOTEZ@nsssslllp | 14 | 38 | 24 | 0 | 14 | 72 |
 | 종강종강돌을던지자@Wisdom-Kim | 15 | 38 | 23 | 0 | 15 | 69 |
 | Stop@lkm778u | 16 | 38 | 22 | 0 | 16 | 66 |
@@ -33,15 +33,15 @@
 | PuangTeam@Namkyunghun | 25 | 38 | 14 | 1 | 23 | 43 |
 | ⚡Benzi⚡@soohnzzang | 26 | 38 | 14 | 0 | 24 | 42 |
 | Yabeunosem@minju8843 | 27 | 38 | 13 | 2 | 23 | 41 |
-| PLZ@alqmzhh92 | 28 | 38 | 12 | 1 | 25 | 37 |
-| Asgardian@ParkJh38 | 29 | 38 | 12 | 0 | 26 | 36 |
-| ◝(⁰▿⁰)◜@sara-k1m | 30 | 38 | 11 | 3 | 24 | 36 |
-| 폭풍전사119@sukk719 | 31 | 38 | 11 | 2 | 25 | 35 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 28 | 38 | 12 | 0 | 26 | 36 |
+| ◝(⁰▿⁰)◜@sara-k1m | 29 | 38 | 11 | 3 | 24 | 36 |
+| 폭풍전사119@sukk719 | 30 | 38 | 11 | 2 | 25 | 35 |
+| PLZ@alqmzhh92 | 31 | 38 | 11 | 1 | 26 | 34 |
 | DYNAMITE@Eunyoung1223 | 32 | 38 | 11 | 1 | 26 | 34 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 33 | 38 | 11 | 0 | 27 | 33 |
-| peanut@kahyeon17 | 34 | 38 | 11 | 0 | 27 | 33 |
-| KHH@kimhh2880 | 35 | 38 | 5 | 0 | 33 | 15 |
-| PUSHING@wkdgnl123 | 36 | 38 | 5 | 0 | 33 | 15 |
-| Null@L-HK | 37 | 38 | 4 | 0 | 34 | 12 |
+| Asgardian@ParkJh38 | 33 | 38 | 11 | 0 | 27 | 33 |
+| peanut@kahyeon17 | 34 | 38 | 10 | 1 | 27 | 31 |
+| Null@L-HK | 35 | 38 | 7 | 1 | 30 | 22 |
+| KHH@kimhh2880 | 36 | 38 | 5 | 0 | 33 | 15 |
+| PUSHING@wkdgnl123 | 37 | 38 | 4 | 0 | 34 | 12 |
 | @CDoubleH | 38 | 38 | 0 | 1 | 37 | 1 |
 | newbie@gh-BumsooKim | 39 | 38 | 0 | 1 | 37 | 1 |
