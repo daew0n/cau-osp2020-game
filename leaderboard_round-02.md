@@ -1,12 +1,12 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 14일 23시 05분
+최종 업데이트: 2020년 12월 14일 23시 10분
 
 
 
 
 | 참가자 | 순위 | 경기수 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| LOLhagoshipda@rakbin007 | 1 | 36 | 32 | 1 | 3 | 97 |
+| LOLhagoshipda@rakbin007 | 1 | 36 | 31 | 1 | 4 | 94 |
 | hunsu@songse13 | 2 | 36 | 31 | 1 | 4 | 94 |
 | coronaxxx@pjmkjjpk | 3 | 36 | 31 | 0 | 5 | 93 |
 | sskjhgod@da3414 | 4 | 36 | 28 | 3 | 5 | 87 |
@@ -30,16 +30,16 @@
 | A@JIMINOFF | 22 | 36 | 14 | 2 | 20 | 44 |
 | AGANG@jbr1tr | 23 | 36 | 13 | 2 | 21 | 41 |
 | NaDa@yjh9929 | 24 | 36 | 13 | 2 | 21 | 41 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 25 | 36 | 13 | 0 | 23 | 39 |
-| 맛집@yongjin13 | 26 | 36 | 12 | 2 | 22 | 38 |
-| Asgardian@ParkJh38 | 27 | 36 | 12 | 1 | 23 | 37 |
-| DYNAMITE@Eunyoung1223 | 28 | 36 | 11 | 1 | 24 | 34 |
-| 폭풍전사119@sukk719 | 29 | 36 | 11 | 1 | 24 | 34 |
-| ◝(⁰▿⁰)◜@sara-k1m | 30 | 36 | 9 | 5 | 22 | 32 |
-| PLZ@alqmzhh92 | 31 | 36 | 10 | 1 | 25 | 31 |
-| peanut@kahyeon17 | 32 | 36 | 10 | 0 | 26 | 30 |
-| Prism@eunyoungyi | 33 | 36 | 8 | 2 | 26 | 26 |
-| PuangTeam@Namkyunghun | 34 | 36 | 7 | 1 | 28 | 22 |
-| PUSHING@wkdgnl123 | 35 | 36 | 4 | 0 | 32 | 12 |
-| Null@L-HK | 36 | 36 | 3 | 0 | 33 | 9 |
+| 맛집@yongjin13 | 25 | 36 | 12 | 2 | 22 | 38 |
+| Asgardian@ParkJh38 | 26 | 36 | 12 | 1 | 23 | 37 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 27 | 36 | 12 | 0 | 24 | 36 |
+| 폭풍전사119@sukk719 | 28 | 36 | 10 | 2 | 24 | 32 |
+| PLZ@alqmzhh92 | 29 | 36 | 10 | 1 | 25 | 31 |
+| DYNAMITE@Eunyoung1223 | 30 | 36 | 10 | 1 | 25 | 31 |
+| ◝(⁰▿⁰)◜@sara-k1m | 31 | 36 | 8 | 6 | 22 | 30 |
+| peanut@kahyeon17 | 32 | 36 | 9 | 0 | 27 | 27 |
+| Null@L-HK | 33 | 36 | 8 | 2 | 26 | 26 |
+| Prism@eunyoungyi | 34 | 36 | 7 | 2 | 27 | 23 |
+| PuangTeam@Namkyunghun | 35 | 36 | 6 | 1 | 29 | 19 |
+| PUSHING@wkdgnl123 | 36 | 36 | 5 | 0 | 31 | 15 |
 | @CDoubleH | 37 | 36 | 0 | 0 | 36 | 0 |
