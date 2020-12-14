@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 01시 55분
+최종 업데이트: 2020년 12월 15일 02시 00분
 
 
 
@@ -14,25 +14,25 @@
 | apto990tm@MaSeongHwan | 6 | 42 | 35 | 2 | 5 | 107 |
 | FinalRoster@StackOut-K1m | 7 | 42 | 35 | 2 | 5 | 107 |
 | @suewcho | 8 | 42 | 34 | 0 | 8 | 102 |
-| LOOK@artech2w | 9 | 42 | 32 | 1 | 9 | 97 |
-| 세깅@yejik1002 | 10 | 42 | 32 | 1 | 9 | 97 |
-| Guineapig@ychaaaan | 11 | 42 | 30 | 1 | 11 | 91 |
-| KHH@kimhh2880 | 12 | 42 | 29 | 3 | 10 | 90 |
-| 👑@chxhyxn | 13 | 42 | 27 | 2 | 13 | 83 |
+| LOOK@artech2w | 9 | 42 | 31 | 2 | 9 | 95 |
+| Guineapig@ychaaaan | 10 | 42 | 30 | 1 | 11 | 91 |
+| KHH@kimhh2880 | 11 | 42 | 29 | 3 | 10 | 90 |
+| 👑@chxhyxn | 12 | 42 | 28 | 2 | 12 | 86 |
+| 세깅@yejik1002 | 13 | 42 | 27 | 2 | 13 | 83 |
 | SPONGEBOB@sunjooahn | 14 | 42 | 26 | 2 | 14 | 80 |
 | PLZ@alqmzhh92 | 15 | 42 | 25 | 1 | 16 | 76 |
 | 💘JUDY💘@junsoo08 | 16 | 42 | 25 | 1 | 16 | 76 |
 | Abracadabra@JIMINOFF | 17 | 42 | 23 | 4 | 15 | 73 |
 | NOTEZ@nsssslllp | 18 | 42 | 24 | 0 | 18 | 72 |
-| Stop@lkm778u | 19 | 42 | 23 | 2 | 17 | 71 |
-| 종강종강돌을던지자@Wisdom-Kim | 20 | 42 | 23 | 0 | 19 | 69 |
-| LittleLyrical@ArfiTech | 21 | 42 | 20 | 1 | 21 | 61 |
+| 종강종강돌을던지자@Wisdom-Kim | 19 | 42 | 24 | 0 | 18 | 72 |
+| Stop@lkm778u | 20 | 42 | 23 | 2 | 17 | 71 |
+| LittleLyrical@ArfiTech | 21 | 42 | 21 | 1 | 20 | 64 |
 | candy@sihumji00 | 22 | 42 | 20 | 1 | 21 | 61 |
 | HICPT@seanlee5808 | 23 | 42 | 19 | 1 | 22 | 58 |
-| DYNAMITE@Eunyoung1223 | 24 | 42 | 17 | 0 | 25 | 51 |
-| Prism@eunyoungyi | 25 | 42 | 16 | 2 | 24 | 50 |
-| AGANG@jbr1tr | 26 | 42 | 16 | 2 | 24 | 50 |
-| GOD.OF.THUNDER@ParkJh38 | 27 | 42 | 16 | 2 | 24 | 50 |
+| Prism@eunyoungyi | 24 | 42 | 17 | 2 | 23 | 53 |
+| GOD.OF.THUNDER@ParkJh38 | 25 | 42 | 17 | 2 | 23 | 53 |
+| DYNAMITE@Eunyoung1223 | 26 | 42 | 17 | 0 | 25 | 51 |
+| AGANG@jbr1tr | 27 | 42 | 16 | 2 | 24 | 50 |
 | NaDa@yjh9929 | 28 | 42 | 16 | 2 | 24 | 50 |
 | yeegemusun129@sally1924 | 29 | 42 | 16 | 1 | 25 | 49 |
 | 맛집@yongjin13 | 30 | 42 | 14 | 1 | 27 | 43 |
