@@ -1,31 +1,33 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 14일 21시 15분
+최종 업데이트: 2020년 12월 14일 21시 20분
 
 
 
 
 | 참가자 | 순위 | 경기수 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| GameofThrone@MaSeongHwan | 1 | 22 | 14 | 8 | 0 | 50 |
-| coronaxxx@pjmkjjpk | 2 | 22 | 14 | 8 | 0 | 50 |
-| LOLhagoshipda@rakbin007 | 3 | 22 | 14 | 8 | 0 | 50 |
-| hunsu@songse13 | 4 | 22 | 14 | 8 | 0 | 50 |
-| ANUN@suewcho | 5 | 22 | 14 | 8 | 0 | 50 |
-| Guineapig@ychaaaan | 6 | 22 | 14 | 8 | 0 | 50 |
-| 세깅@yejik1002 | 7 | 22 | 14 | 8 | 0 | 50 |
-| LOOK@artech2w | 8 | 22 | 14 | 0 | 8 | 42 |
-| Stop@lkm778u | 9 | 22 | 13 | 0 | 9 | 39 |
-| SPONGEBOB@sunjooahn | 10 | 22 | 12 | 0 | 10 | 36 |
-| newbie@gh-BumsooKim | 11 | 22 | 11 | 0 | 11 | 33 |
-| LittleLyrical@ArfiTech | 12 | 22 | 10 | 1 | 11 | 31 |
-| HICPT@seanlee5808 | 13 | 22 | 9 | 2 | 11 | 29 |
-| NOTEZ@nsssslllp | 14 | 22 | 9 | 1 | 12 | 28 |
-| candy@sihumji00 | 15 | 22 | 8 | 0 | 14 | 24 |
-| AGANG@jbr1tr | 16 | 22 | 4 | 9 | 9 | 21 |
-| NaDa@yjh9929 | 17 | 22 | 4 | 9 | 9 | 21 |
-| DYNAMITE@Eunyoung1223 | 18 | 22 | 4 | 1 | 17 | 13 |
-| ⚡Benzi⚡@soohnzzang | 19 | 22 | 4 | 1 | 17 | 13 |
-| PuangTeam@Namkyunghun | 20 | 22 | 2 | 4 | 16 | 10 |
-| ◝(⁰▿⁰)◜@sara-k1m | 21 | 22 | 3 | 1 | 18 | 10 |
-| Prism@eunyoungyi | 22 | 22 | 3 | 0 | 19 | 9 |
-| Overwatch@CDoubleH | 23 | 22 | 2 | 1 | 19 | 7 |
+| GameofThrone@MaSeongHwan | 1 | 24 | 15 | 9 | 0 | 54 |
+| coronaxxx@pjmkjjpk | 2 | 24 | 15 | 9 | 0 | 54 |
+| LOLhagoshipda@rakbin007 | 3 | 24 | 15 | 9 | 0 | 54 |
+| ANUN@suewcho | 4 | 24 | 15 | 9 | 0 | 54 |
+| somany1st@underlunar0613 | 5 | 24 | 15 | 9 | 0 | 54 |
+| Guineapig@ychaaaan | 6 | 24 | 15 | 9 | 0 | 54 |
+| 세깅@yejik1002 | 7 | 24 | 15 | 9 | 0 | 54 |
+| hunsu@songse13 | 8 | 24 | 12 | 8 | 4 | 44 |
+| LOOK@artech2w | 9 | 24 | 14 | 0 | 10 | 42 |
+| sskjhgod@da3414 | 10 | 24 | 14 | 0 | 10 | 42 |
+| Stop@lkm778u | 11 | 24 | 13 | 0 | 11 | 39 |
+| LittleLyrical@ArfiTech | 12 | 24 | 11 | 1 | 12 | 34 |
+| newbie@gh-BumsooKim | 13 | 24 | 11 | 1 | 12 | 34 |
+| HICPT@seanlee5808 | 14 | 24 | 11 | 1 | 12 | 34 |
+| NOTEZ@nsssslllp | 15 | 24 | 10 | 2 | 12 | 32 |
+| AGANG@jbr1tr | 16 | 24 | 6 | 9 | 9 | 27 |
+| candy@sihumji00 | 17 | 24 | 9 | 0 | 15 | 27 |
+| NaDa@yjh9929 | 18 | 24 | 6 | 9 | 9 | 27 |
+| SPONGEBOB@sunjooahn | 19 | 24 | 8 | 0 | 16 | 24 |
+| DYNAMITE@Eunyoung1223 | 20 | 24 | 5 | 1 | 18 | 16 |
+| Prism@eunyoungyi | 21 | 24 | 4 | 1 | 19 | 13 |
+| ⚡Benzi⚡@soohnzzang | 22 | 24 | 4 | 1 | 19 | 13 |
+| ◝(⁰▿⁰)◜@sara-k1m | 23 | 24 | 3 | 1 | 20 | 10 |
+| PuangTeam@Namkyunghun | 24 | 24 | 1 | 5 | 18 | 8 |
+| Overwatch@CDoubleH | 25 | 24 | 1 | 1 | 22 | 4 |
