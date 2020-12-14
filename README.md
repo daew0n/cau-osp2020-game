@@ -34,6 +34,7 @@
 - 제 1 라운드
     - 마감일: 12월 11일 금요일 11:59 PM
     - 규칙: [constraints-round-01](constraints/constraints-round-01.ipynb)
+	- 명예의전당: [hall-of-fame/round-01](hall-of-fame/round-01)
 - 제 2 라운드
     - 마감일: 12월 15일 화요일 12:00 PM
     - 규칙: [constraints-round-02](constraints/constraints-round-02.ipynb)
