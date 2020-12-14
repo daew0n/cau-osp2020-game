@@ -1,48 +1,47 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 00시 05분
+최종 업데이트: 2020년 12월 15일 00시 10분
 
 
 
 
 | 참가자 | 순위 | 경기수 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| coronaxxx@pjmkjjpk | 1 | 39 | 34 | 3 | 2 | 105 |
-| LOLhagoshipda@rakbin007 | 2 | 39 | 34 | 3 | 2 | 105 |
-| hunsu@songse13 | 3 | 39 | 34 | 3 | 2 | 105 |
-| hello@underlunar0613 | 4 | 39 | 34 | 3 | 2 | 105 |
-| sskjhgod@da3414 | 5 | 39 | 32 | 2 | 5 | 98 |
-| app990@MaSeongHwan | 6 | 39 | 32 | 2 | 5 | 98 |
-| FinalRoster@StackOut-K1m | 7 | 39 | 32 | 2 | 5 | 98 |
-| LOOK@artech2w | 8 | 39 | 30 | 0 | 9 | 90 |
-| Guineapig@ychaaaan | 9 | 39 | 28 | 1 | 10 | 85 |
-| ANUN@suewcho | 10 | 39 | 28 | 0 | 11 | 84 |
-| SPONGEBOB@sunjooahn | 11 | 39 | 27 | 1 | 11 | 82 |
-| 세깅@yejik1002 | 12 | 39 | 25 | 2 | 12 | 77 |
-| PLZ@alqmzhh92 | 13 | 39 | 25 | 1 | 13 | 76 |
-| 💘JUDY💘@junsoo08 | 14 | 39 | 25 | 1 | 13 | 76 |
-| Stop@lkm778u | 15 | 39 | 23 | 0 | 16 | 69 |
-| NOTEZ@nsssslllp | 16 | 39 | 23 | 0 | 16 | 69 |
-| 종강종강돌을던지자@Wisdom-Kim | 17 | 39 | 23 | 0 | 16 | 69 |
-| candy@sihumji00 | 18 | 39 | 22 | 0 | 17 | 66 |
-| A@JIMINOFF | 19 | 39 | 19 | 4 | 16 | 61 |
-| HICPT@seanlee5808 | 20 | 39 | 20 | 1 | 18 | 61 |
-| LittleLyrical@ArfiTech | 21 | 39 | 19 | 1 | 19 | 58 |
-| Prism@eunyoungyi | 22 | 39 | 16 | 1 | 22 | 49 |
-| GOD.OF.THUNDER@ParkJh38 | 23 | 39 | 16 | 1 | 22 | 49 |
-| AGANG@jbr1tr | 24 | 39 | 15 | 2 | 22 | 47 |
-| NaDa@yjh9929 | 25 | 39 | 15 | 2 | 22 | 47 |
-| 맛집@yongjin13 | 26 | 39 | 15 | 1 | 23 | 46 |
-| PuangTeam@Namkyunghun | 27 | 39 | 14 | 1 | 24 | 43 |
-| ⚡Benzi⚡@soohnzzang | 28 | 39 | 13 | 0 | 26 | 39 |
-| Yabeunosem@minju8843 | 29 | 39 | 12 | 2 | 25 | 38 |
-| DYNAMITE@Eunyoung1223 | 30 | 39 | 11 | 1 | 27 | 34 |
-| 폭풍전사119@sukk719 | 31 | 39 | 10 | 2 | 27 | 32 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 32 | 39 | 10 | 1 | 28 | 31 |
-| ◝(⁰▿⁰)◜@sara-k1m | 33 | 39 | 9 | 4 | 26 | 31 |
-| peanut@kahyeon17 | 34 | 39 | 9 | 0 | 30 | 27 |
-| KHH@kimhh2880 | 35 | 39 | 7 | 3 | 29 | 24 |
-| W.O.@ksr1726 | 36 | 39 | 5 | 0 | 34 | 15 |
-| Null@L-HK | 37 | 39 | 4 | 1 | 34 | 13 |
-| PUSHING@wkdgnl123 | 38 | 39 | 3 | 0 | 36 | 9 |
-| @CDoubleH | 39 | 39 | 0 | 1 | 38 | 1 |
-| newbie@gh-BumsooKim | 40 | 39 | 0 | 1 | 38 | 1 |
+| coronaxxx@pjmkjjpk | 1 | 38 | 33 | 3 | 2 | 102 |
+| LOLhagoshipda@rakbin007 | 2 | 38 | 33 | 3 | 2 | 102 |
+| hunsu@songse13 | 3 | 38 | 33 | 3 | 2 | 102 |
+| hello@underlunar0613 | 4 | 38 | 33 | 3 | 2 | 102 |
+| sskjhgod@da3414 | 5 | 38 | 31 | 2 | 5 | 95 |
+| app990@MaSeongHwan | 6 | 38 | 31 | 2 | 5 | 95 |
+| FinalRoster@StackOut-K1m | 7 | 38 | 31 | 2 | 5 | 95 |
+| LOOK@artech2w | 8 | 38 | 29 | 0 | 9 | 87 |
+| Guineapig@ychaaaan | 9 | 38 | 27 | 1 | 10 | 82 |
+| ANUN@suewcho | 10 | 38 | 27 | 0 | 11 | 81 |
+| SPONGEBOB@sunjooahn | 11 | 38 | 26 | 1 | 11 | 79 |
+| 세깅@yejik1002 | 12 | 38 | 24 | 2 | 12 | 74 |
+| PLZ@alqmzhh92 | 13 | 38 | 24 | 1 | 13 | 73 |
+| 💘JUDY💘@junsoo08 | 14 | 38 | 24 | 1 | 13 | 73 |
+| Stop@lkm778u | 15 | 38 | 22 | 0 | 16 | 66 |
+| NOTEZ@nsssslllp | 16 | 38 | 22 | 0 | 16 | 66 |
+| 종강종강돌을던지자@Wisdom-Kim | 17 | 38 | 22 | 0 | 16 | 66 |
+| candy@sihumji00 | 18 | 38 | 21 | 0 | 17 | 63 |
+| A@JIMINOFF | 19 | 38 | 20 | 2 | 16 | 62 |
+| HICPT@seanlee5808 | 20 | 38 | 19 | 1 | 18 | 58 |
+| LittleLyrical@ArfiTech | 21 | 38 | 18 | 1 | 19 | 55 |
+| Prism@eunyoungyi | 22 | 38 | 15 | 1 | 22 | 46 |
+| GOD.OF.THUNDER@ParkJh38 | 23 | 38 | 15 | 1 | 22 | 46 |
+| AGANG@jbr1tr | 24 | 38 | 14 | 2 | 22 | 44 |
+| NaDa@yjh9929 | 25 | 38 | 14 | 2 | 22 | 44 |
+| 맛집@yongjin13 | 26 | 38 | 14 | 1 | 23 | 43 |
+| PuangTeam@Namkyunghun | 27 | 38 | 13 | 1 | 24 | 40 |
+| ⚡Benzi⚡@soohnzzang | 28 | 38 | 12 | 0 | 26 | 36 |
+| Yabeunosem@minju8843 | 29 | 38 | 11 | 2 | 25 | 35 |
+| 폭풍전사119@sukk719 | 30 | 38 | 10 | 2 | 26 | 32 |
+| DYNAMITE@Eunyoung1223 | 31 | 38 | 10 | 1 | 27 | 31 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 32 | 38 | 10 | 0 | 28 | 30 |
+| ◝(⁰▿⁰)◜@sara-k1m | 33 | 38 | 9 | 3 | 26 | 30 |
+| peanut@kahyeon17 | 34 | 38 | 9 | 0 | 29 | 27 |
+| Null@L-HK | 35 | 38 | 5 | 0 | 33 | 15 |
+| W.O.@ksr1726 | 36 | 38 | 4 | 0 | 34 | 12 |
+| PUSHING@wkdgnl123 | 37 | 38 | 3 | 0 | 35 | 9 |
+| @CDoubleH | 38 | 38 | 0 | 1 | 37 | 1 |
+| newbie@gh-BumsooKim | 39 | 38 | 0 | 1 | 37 | 1 |
