@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 08시 01분
+최종 업데이트: 2020년 12월 15일 08시 06분
 
 
 
@@ -33,8 +33,8 @@
 | True_Damage@maritajee | 25 | 51 | 25 | 2 | 24 | 77 |
 | HICPT@seanlee5808 | 26 | 51 | 24 | 2 | 25 | 74 |
 | 😎@hyunnni | 27 | 51 | 22 | 1 | 28 | 67 |
-| candy@sihumji00 | 28 | 51 | 22 | 1 | 28 | 67 |
-| Gwajaeslave@sally1924 | 29 | 51 | 21 | 0 | 30 | 63 |
+| Gwajaeslave@sally1924 | 28 | 51 | 22 | 0 | 29 | 66 |
+| candy@sihumji00 | 29 | 51 | 21 | 1 | 29 | 64 |
 | Prism@eunyoungyi | 30 | 51 | 20 | 2 | 29 | 62 |
 | GOD.OF.THUNDER@ParkJh38 | 31 | 51 | 20 | 2 | 29 | 62 |
 | DYNAMITE@Eunyoung1223 | 32 | 51 | 19 | 0 | 32 | 57 |
@@ -45,15 +45,15 @@
 | SON7@jigajiga | 37 | 51 | 15 | 5 | 31 | 50 |
 | yomyom@jsjy0830 | 38 | 51 | 16 | 2 | 33 | 50 |
 | ⚡Benzi⚡@soohnzzang | 39 | 51 | 16 | 2 | 33 | 50 |
-| PuangTeam@Namkyunghun | 40 | 51 | 15 | 1 | 35 | 46 |
-| 맛집@yongjin13 | 41 | 51 | 14 | 2 | 35 | 44 |
+| 맛집@yongjin13 | 40 | 51 | 14 | 2 | 35 | 44 |
+| PuangTeam@Namkyunghun | 41 | 51 | 14 | 1 | 36 | 43 |
 | peanut@kahyeon17 | 42 | 51 | 14 | 0 | 37 | 42 |
 | Yabeunosem@minju8843 | 43 | 51 | 12 | 2 | 37 | 38 |
 | ◝(⁰▿⁰)◜@sara-k1m | 44 | 51 | 10 | 4 | 37 | 34 |
 | W.O.@ksr1726 | 45 | 51 | 10 | 2 | 39 | 32 |
 | 폭풍전사119@sukk719 | 46 | 51 | 10 | 2 | 39 | 32 |
-| Null@L-HK | 47 | 51 | 7 | 1 | 43 | 22 |
-| jmtggm@dlaJinsook6 | 48 | 51 | 5 | 3 | 43 | 18 |
+| Null@L-HK | 47 | 51 | 8 | 0 | 43 | 24 |
+| jmtggm@dlaJinsook6 | 48 | 51 | 6 | 2 | 43 | 20 |
 | Upload@HARY020 | 49 | 51 | 5 | 1 | 45 | 16 |
 | PUSHING@wkdgnl123 | 50 | 51 | 3 | 0 | 48 | 9 |
 | @CDoubleH | 51 | 51 | 0 | 1 | 50 | 1 |
