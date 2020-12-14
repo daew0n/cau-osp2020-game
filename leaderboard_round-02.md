@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 00시 50분
+최종 업데이트: 2020년 12월 15일 00시 55분
 
 
 
@@ -14,10 +14,10 @@
 | app990@MaSeongHwan | 6 | 39 | 31 | 3 | 5 | 96 |
 | FinalRoster@StackOut-K1m | 7 | 39 | 31 | 3 | 5 | 96 |
 | 세깅@yejik1002 | 8 | 39 | 31 | 3 | 5 | 96 |
-| LOOK@artech2w | 9 | 39 | 28 | 1 | 10 | 85 |
-| KHH@kimhh2880 | 10 | 39 | 27 | 1 | 11 | 82 |
-| Guineapig@ychaaaan | 11 | 39 | 27 | 1 | 11 | 82 |
-| ANUN@suewcho | 12 | 39 | 27 | 0 | 12 | 81 |
+| LOOK@artech2w | 9 | 39 | 29 | 1 | 9 | 88 |
+| Guineapig@ychaaaan | 10 | 39 | 27 | 1 | 11 | 82 |
+| ANUN@suewcho | 11 | 39 | 27 | 0 | 12 | 81 |
+| KHH@kimhh2880 | 12 | 39 | 26 | 1 | 12 | 79 |
 | SPONGEBOB@sunjooahn | 13 | 39 | 25 | 1 | 13 | 76 |
 | PLZ@alqmzhh92 | 14 | 39 | 24 | 1 | 14 | 73 |
 | 💘JUDY💘@junsoo08 | 15 | 39 | 24 | 1 | 14 | 73 |
@@ -34,15 +34,15 @@
 | NaDa@yjh9929 | 26 | 39 | 14 | 1 | 24 | 43 |
 | PuangTeam@Namkyunghun | 27 | 39 | 13 | 0 | 26 | 39 |
 | ⚡Benzi⚡@soohnzzang | 28 | 39 | 12 | 1 | 26 | 37 |
-| 맛집@yongjin13 | 29 | 39 | 12 | 1 | 26 | 37 |
-| Yabeunosem@minju8843 | 30 | 39 | 11 | 1 | 27 | 34 |
+| Yabeunosem@minju8843 | 29 | 39 | 11 | 1 | 27 | 34 |
+| 맛집@yongjin13 | 30 | 39 | 11 | 1 | 27 | 34 |
 | DYNAMITE@Eunyoung1223 | 31 | 39 | 10 | 1 | 28 | 31 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 32 | 39 | 10 | 0 | 29 | 30 |
-| peanut@kahyeon17 | 33 | 39 | 10 | 0 | 29 | 30 |
-| 폭풍전사119@sukk719 | 34 | 39 | 9 | 2 | 28 | 29 |
+| peanut@kahyeon17 | 32 | 39 | 10 | 0 | 29 | 30 |
+| 폭풍전사119@sukk719 | 33 | 39 | 9 | 2 | 28 | 29 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 34 | 39 | 9 | 1 | 29 | 28 |
 | ◝(⁰▿⁰)◜@sara-k1m | 35 | 39 | 8 | 3 | 28 | 27 |
-| Null@L-HK | 36 | 39 | 5 | 0 | 34 | 15 |
-| W.O.@ksr1726 | 37 | 39 | 4 | 0 | 35 | 12 |
+| Null@L-HK | 36 | 39 | 5 | 1 | 33 | 16 |
+| W.O.@ksr1726 | 37 | 39 | 5 | 0 | 34 | 15 |
 | PUSHING@wkdgnl123 | 38 | 39 | 3 | 0 | 36 | 9 |
 | @CDoubleH | 39 | 39 | 0 | 1 | 38 | 1 |
 | newbie@gh-BumsooKim | 40 | 39 | 0 | 1 | 38 | 1 |
