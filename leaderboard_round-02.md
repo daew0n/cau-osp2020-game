@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 10시 01분
+최종 업데이트: 2020년 12월 15일 10시 06분
 
 
 
@@ -33,8 +33,8 @@
 | True_Damage@maritajee | 25 | 51 | 25 | 2 | 24 | 77 |
 | HICPT@seanlee5808 | 26 | 51 | 24 | 2 | 25 | 74 |
 | 😎@hyunnni | 27 | 51 | 23 | 0 | 28 | 69 |
-| Gwajaeslave@sally1924 | 28 | 51 | 22 | 0 | 29 | 66 |
-| candy@sihumji00 | 29 | 51 | 21 | 1 | 29 | 64 |
+| candy@sihumji00 | 28 | 51 | 22 | 1 | 28 | 67 |
+| Gwajaeslave@sally1924 | 29 | 51 | 22 | 0 | 29 | 66 |
 | Prism@eunyoungyi | 30 | 51 | 20 | 2 | 29 | 62 |
 | GOD.OF.THUNDER@ParkJh38 | 31 | 51 | 20 | 2 | 29 | 62 |
 | DYNAMITE@Eunyoung1223 | 32 | 51 | 19 | 0 | 32 | 57 |
@@ -47,14 +47,14 @@
 | SON7@jigajiga | 39 | 51 | 14 | 6 | 31 | 48 |
 | 맛집@yongjin13 | 40 | 51 | 14 | 6 | 31 | 48 |
 | PuangTeam@Namkyunghun | 41 | 51 | 15 | 1 | 35 | 46 |
-| peanut@kahyeon17 | 42 | 51 | 14 | 0 | 37 | 42 |
+| peanut@kahyeon17 | 42 | 51 | 14 | 1 | 36 | 43 |
 | Yabeunosem@minju8843 | 43 | 51 | 12 | 2 | 37 | 38 |
 | ◝(⁰▿⁰)◜@sara-k1m | 44 | 51 | 10 | 4 | 37 | 34 |
 | W.O.@ksr1726 | 45 | 51 | 10 | 2 | 39 | 32 |
 | 폭풍전사119@sukk719 | 46 | 51 | 9 | 2 | 40 | 29 |
-| Null@L-HK | 47 | 51 | 6 | 1 | 44 | 19 |
-| jmtggm@dlaJinsook6 | 48 | 51 | 5 | 3 | 43 | 18 |
-| Upload@HARY020 | 49 | 51 | 5 | 1 | 45 | 16 |
-| PUSHING@wkdgnl123 | 50 | 51 | 3 | 0 | 48 | 9 |
+| jmtggm@dlaJinsook6 | 47 | 51 | 6 | 2 | 43 | 20 |
+| Upload@HARY020 | 48 | 51 | 6 | 1 | 44 | 19 |
+| PUSHING@wkdgnl123 | 49 | 51 | 3 | 1 | 47 | 10 |
+| Null@L-HK | 50 | 51 | 2 | 2 | 47 | 8 |
 | @CDoubleH | 51 | 51 | 0 | 1 | 50 | 1 |
 | newbie@gh-BumsooKim | 52 | 51 | 0 | 1 | 50 | 1 |
