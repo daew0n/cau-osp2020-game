@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 09시 56분
+최종 업데이트: 2020년 12월 15일 10시 01분
 
 
 
@@ -24,8 +24,8 @@
 | SPONGEBOB@sunjooahn | 16 | 51 | 33 | 1 | 17 | 100 |
 | PLZ@alqmzhh92 | 17 | 51 | 32 | 1 | 18 | 97 |
 | 💘JUDY💘@junsoo08 | 18 | 51 | 32 | 1 | 18 | 97 |
-| NOTEZ@nsssslllp | 19 | 51 | 30 | 0 | 21 | 90 |
-| Chess@rex0053 | 20 | 51 | 29 | 3 | 19 | 90 |
+| Chess@rex0053 | 19 | 51 | 30 | 3 | 18 | 93 |
+| NOTEZ@nsssslllp | 20 | 51 | 30 | 0 | 21 | 90 |
 | 종강종강돌을던지자@Wisdom-Kim | 21 | 51 | 29 | 1 | 21 | 88 |
 | LittleLyrical@ArfiTech | 22 | 51 | 25 | 2 | 24 | 77 |
 | Abracadabra@JIMINOFF | 23 | 51 | 24 | 5 | 22 | 77 |
@@ -33,8 +33,8 @@
 | True_Damage@maritajee | 25 | 51 | 25 | 2 | 24 | 77 |
 | HICPT@seanlee5808 | 26 | 51 | 24 | 2 | 25 | 74 |
 | 😎@hyunnni | 27 | 51 | 23 | 0 | 28 | 69 |
-| candy@sihumji00 | 28 | 51 | 22 | 1 | 28 | 67 |
-| Gwajaeslave@sally1924 | 29 | 51 | 22 | 0 | 29 | 66 |
+| Gwajaeslave@sally1924 | 28 | 51 | 22 | 0 | 29 | 66 |
+| candy@sihumji00 | 29 | 51 | 21 | 1 | 29 | 64 |
 | Prism@eunyoungyi | 30 | 51 | 20 | 2 | 29 | 62 |
 | GOD.OF.THUNDER@ParkJh38 | 31 | 51 | 20 | 2 | 29 | 62 |
 | DYNAMITE@Eunyoung1223 | 32 | 51 | 19 | 0 | 32 | 57 |
@@ -52,8 +52,8 @@
 | ◝(⁰▿⁰)◜@sara-k1m | 44 | 51 | 10 | 4 | 37 | 34 |
 | W.O.@ksr1726 | 45 | 51 | 10 | 2 | 39 | 32 |
 | 폭풍전사119@sukk719 | 46 | 51 | 9 | 2 | 40 | 29 |
-| jmtggm@dlaJinsook6 | 47 | 51 | 6 | 2 | 43 | 20 |
-| Null@L-HK | 48 | 51 | 6 | 0 | 45 | 18 |
+| Null@L-HK | 47 | 51 | 6 | 1 | 44 | 19 |
+| jmtggm@dlaJinsook6 | 48 | 51 | 5 | 3 | 43 | 18 |
 | Upload@HARY020 | 49 | 51 | 5 | 1 | 45 | 16 |
 | PUSHING@wkdgnl123 | 50 | 51 | 3 | 0 | 48 | 9 |
 | @CDoubleH | 51 | 51 | 0 | 1 | 50 | 1 |
