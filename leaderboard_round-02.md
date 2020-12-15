@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 09시 31분
+최종 업데이트: 2020년 12월 15일 09시 36분
 
 
 
@@ -24,16 +24,16 @@
 | SPONGEBOB@sunjooahn | 16 | 51 | 33 | 2 | 16 | 101 |
 | PLZ@alqmzhh92 | 17 | 51 | 32 | 1 | 18 | 97 |
 | 💘JUDY💘@junsoo08 | 18 | 51 | 32 | 1 | 18 | 97 |
-| Chess@rex0053 | 19 | 51 | 29 | 3 | 19 | 90 |
-| 종강종강돌을던지자@Wisdom-Kim | 20 | 51 | 29 | 1 | 21 | 88 |
-| NOTEZ@nsssslllp | 21 | 51 | 29 | 0 | 22 | 87 |
+| NOTEZ@nsssslllp | 19 | 51 | 30 | 0 | 21 | 90 |
+| Chess@rex0053 | 20 | 51 | 29 | 3 | 19 | 90 |
+| 종강종강돌을던지자@Wisdom-Kim | 21 | 51 | 29 | 1 | 21 | 88 |
 | LittleLyrical@ArfiTech | 22 | 51 | 25 | 2 | 24 | 77 |
 | Abracadabra@JIMINOFF | 23 | 51 | 24 | 5 | 22 | 77 |
 | Stop@lkm778u | 24 | 51 | 25 | 2 | 24 | 77 |
 | True_Damage@maritajee | 25 | 51 | 25 | 2 | 24 | 77 |
 | HICPT@seanlee5808 | 26 | 51 | 24 | 2 | 25 | 74 |
-| 😎@hyunnni | 27 | 51 | 23 | 0 | 28 | 69 |
-| candy@sihumji00 | 28 | 51 | 22 | 1 | 28 | 67 |
+| candy@sihumji00 | 27 | 51 | 22 | 1 | 28 | 67 |
+| 😎@hyunnni | 28 | 51 | 22 | 0 | 29 | 66 |
 | Gwajaeslave@sally1924 | 29 | 51 | 22 | 0 | 29 | 66 |
 | Prism@eunyoungyi | 30 | 51 | 20 | 2 | 29 | 62 |
 | GOD.OF.THUNDER@ParkJh38 | 31 | 51 | 20 | 2 | 29 | 62 |
@@ -54,7 +54,7 @@
 | 폭풍전사119@sukk719 | 46 | 51 | 9 | 2 | 40 | 29 |
 | jmtggm@dlaJinsook6 | 47 | 51 | 6 | 2 | 43 | 20 |
 | Upload@HARY020 | 48 | 51 | 6 | 1 | 44 | 19 |
-| Null@L-HK | 49 | 51 | 4 | 0 | 47 | 12 |
-| PUSHING@wkdgnl123 | 50 | 51 | 4 | 0 | 47 | 12 |
+| Null@L-HK | 49 | 51 | 5 | 0 | 46 | 15 |
+| PUSHING@wkdgnl123 | 50 | 51 | 3 | 0 | 48 | 9 |
 | @CDoubleH | 51 | 51 | 0 | 1 | 50 | 1 |
 | newbie@gh-BumsooKim | 52 | 51 | 0 | 1 | 50 | 1 |
