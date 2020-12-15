@@ -3,12 +3,12 @@ import codecs
 import re
 
 import numpy as np
-from scipy.stats import zscore
-import matplotlib.pyplot as plt
-import seaborn as sns
+# from scipy.stats import zscore
+# import matplotlib.pyplot as plt
+# import seaborn as sns
 
 pat = re.compile("\|\s+(.*?)@([a-zA-Z0-9\-_]+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|")
-fpath = "../leaderboard_round-01.md"
+fpath = "../leaderboard_round-02.md"
 
 list_github_id = []
 list_score = []
@@ -38,7 +38,7 @@ with codecs.open(fpath, "r", encoding="utf-8") as fin:
     
 
 arr_score = np.array(list_score)
-arr_zscore = zscore(arr_score) 
+# arr_zscore = zscore(arr_score) 
 
 # plt.plot(arr_zscore)
 #ax = sns.distplot(arr_score, bins=20)
@@ -53,7 +53,7 @@ b = 100 - a*max_score
 
 arr_final_score = a*arr_score + b
 
-fpath_out = "../finalscore-round-01.md"
+fpath_out = "../finalscore-round-02.md"
 with open(fpath_out, "w", encoding="utf-8") as fout:
     fout.write("Final Score (Round #1)\n")
     fout.write("======================\n\n")
