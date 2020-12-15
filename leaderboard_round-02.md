@@ -1,71 +1,70 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 16시 49분
+최종 업데이트: 2020년 12월 15일 16시 54분
 
 
 
 
 | 참가자 | 순위 | 경기수 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 👑@chxhyxn | 1 | 62 | 53 | 4 | 5 | 163 |
-| :metal:@JIMINOFF | 2 | 62 | 54 | 1 | 7 | 163 |
-| coronaxxx@pjmkjjpk | 3 | 62 | 53 | 4 | 5 | 163 |
-| hunsu@songse13 | 4 | 62 | 53 | 4 | 5 | 163 |
-| 세깅@yejik1002 | 5 | 62 | 53 | 4 | 5 | 163 |
-| Guineapig@ychaaaan | 6 | 62 | 52 | 5 | 5 | 161 |
-| LOLhagoshipda@rakbin007 | 7 | 62 | 51 | 1 | 10 | 154 |
-| hello@underlunar0613 | 8 | 62 | 51 | 1 | 10 | 154 |
-| sskjhgod@da3414 | 9 | 62 | 49 | 4 | 9 | 151 |
-| ApTo990TM@MaSeongHwan | 10 | 62 | 49 | 4 | 9 | 151 |
-| Malloc@n2ceo778 | 11 | 62 | 49 | 4 | 9 | 151 |
-| 도곡동 주먹밥@smjeon2410 | 12 | 62 | 49 | 4 | 9 | 151 |
-| FinalRoster@StackOut-K1m | 13 | 62 | 49 | 4 | 9 | 151 |
-| NOTEZ@nsssslllp | 14 | 62 | 47 | 2 | 13 | 143 |
-| @suewcho | 15 | 62 | 45 | 2 | 15 | 137 |
-| KHH@kimhh2880 | 16 | 62 | 45 | 1 | 16 | 136 |
-| PADO@Jeon-Minjeong | 17 | 62 | 44 | 2 | 16 | 134 |
-| saenaegi20@leeyewon20 | 18 | 62 | 44 | 0 | 18 | 132 |
-| LOOK@artech2w | 19 | 62 | 43 | 2 | 17 | 131 |
-| ladagi@munyoubin | 20 | 62 | 43 | 1 | 18 | 130 |
-| SPONGEBOB@sunjooahn | 21 | 62 | 40 | 1 | 21 | 121 |
-| PLZ@alqmzhh92 | 22 | 62 | 37 | 2 | 23 | 113 |
-| 💘JUDY💘@junsoo08 | 23 | 62 | 36 | 2 | 24 | 110 |
-| Fake Tiger@kohyun98 | 24 | 62 | 36 | 2 | 24 | 110 |
-| Chess@rex0053 | 25 | 62 | 35 | 2 | 25 | 107 |
-| 종강종강돌을던지자@Wisdom-Kim | 26 | 62 | 33 | 1 | 28 | 100 |
-| LittleLyrical@ArfiTech | 27 | 62 | 29 | 3 | 30 | 90 |
-| True_Damage@maritajee | 28 | 62 | 29 | 3 | 30 | 90 |
-| HICPT@seanlee5808 | 29 | 62 | 29 | 2 | 31 | 89 |
-| Stop@lkm778u | 30 | 62 | 28 | 4 | 30 | 88 |
-| Yabeunosem@minju8843 | 31 | 62 | 27 | 2 | 33 | 83 |
-| PuangTeam@Namkyunghun | 32 | 62 | 27 | 1 | 34 | 82 |
-| Haha_Hoho@dasol0605 | 33 | 62 | 27 | 0 | 35 | 81 |
-| 😎@hyunnni | 34 | 62 | 26 | 0 | 36 | 78 |
-| INSIDEOUT@Imhanbin123 | 35 | 62 | 26 | 0 | 36 | 78 |
-| DYNAMITE@Eunyoung1223 | 36 | 62 | 25 | 0 | 37 | 75 |
-| Gwajaeslave@sally1924 | 37 | 62 | 24 | 2 | 36 | 74 |
-| Prism@eunyoungyi | 38 | 62 | 24 | 1 | 37 | 73 |
-| GOD.OF.THUNDER@ParkJh38 | 39 | 62 | 24 | 1 | 37 | 73 |
-| candy@sihumji00 | 40 | 62 | 24 | 1 | 37 | 73 |
-| (🌕'◡'🌕)@soohnzzang | 41 | 62 | 24 | 0 | 38 | 72 |
-| @CDoubleH | 42 | 62 | 23 | 1 | 38 | 70 |
-| AGANG@jbr1tr | 43 | 62 | 20 | 5 | 37 | 65 |
-| Why Should I@shindongmin11 | 44 | 62 | 20 | 5 | 37 | 65 |
-| Jg Gap@sunghyun2001 | 45 | 62 | 20 | 5 | 37 | 65 |
-| Naega_Jeil_Jalnaga@va0037 | 46 | 62 | 20 | 5 | 37 | 65 |
-| NaDa@yjh9929 | 47 | 62 | 20 | 5 | 37 | 65 |
-| 맛집@yongjin13 | 48 | 62 | 21 | 1 | 40 | 64 |
-| yomyom@jsjy0830 | 49 | 62 | 21 | 0 | 41 | 63 |
-| peanut@kahyeon17 | 50 | 62 | 19 | 1 | 42 | 58 |
-| ◝(⁰▿⁰)◜@sara-k1m | 51 | 62 | 17 | 1 | 44 | 52 |
-| SON7@jigajiga | 52 | 62 | 15 | 5 | 42 | 50 |
-| W.O.@ksr1726 | 53 | 62 | 16 | 0 | 46 | 48 |
-| 폭풍전사119@sukk719 | 54 | 62 | 13 | 3 | 46 | 42 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 55 | 62 | 11 | 5 | 46 | 38 |
-| Rubber Duck@RubADuckDuck | 56 | 62 | 9 | 5 | 48 | 32 |
-| jmtggm@dlaJinsook6 | 57 | 62 | 8 | 4 | 50 | 28 |
-| Null@L-HK | 58 | 62 | 8 | 2 | 52 | 26 |
-| Upload@HARY020 | 59 | 62 | 6 | 3 | 53 | 21 |
-| PUSHING@wkdgnl123 | 60 | 62 | 7 | 0 | 55 | 21 |
-| XD=OkiOkl@OkiOkl | 61 | 62 | 2 | 0 | 60 | 6 |
-| dbsepf@skdbs | 62 | 62 | 1 | 0 | 61 | 3 |
-| Never give up, Just do it@gh-BumsooKim | 63 | 62 | 0 | 0 | 62 | 0 |
+| 👑@chxhyxn | 1 | 61 | 53 | 4 | 4 | 163 |
+| coronaxxx@pjmkjjpk | 2 | 61 | 53 | 4 | 4 | 163 |
+| hunsu@songse13 | 3 | 61 | 53 | 4 | 4 | 163 |
+| 세깅@yejik1002 | 4 | 61 | 53 | 4 | 4 | 163 |
+| Guineapig@ychaaaan | 5 | 61 | 52 | 5 | 4 | 161 |
+| :pray:@JIMINOFF | 6 | 61 | 52 | 1 | 8 | 157 |
+| LOLhagoshipda@rakbin007 | 7 | 61 | 51 | 1 | 9 | 154 |
+| hello@underlunar0613 | 8 | 61 | 51 | 1 | 9 | 154 |
+| @CDoubleH | 9 | 61 | 48 | 5 | 8 | 149 |
+| sskjhgod@da3414 | 10 | 61 | 48 | 5 | 8 | 149 |
+| ApTo990TM@MaSeongHwan | 11 | 61 | 48 | 5 | 8 | 149 |
+| Malloc@n2ceo778 | 12 | 61 | 48 | 5 | 8 | 149 |
+| 도곡동 주먹밥@smjeon2410 | 13 | 61 | 48 | 5 | 8 | 149 |
+| FinalRoster@StackOut-K1m | 14 | 61 | 48 | 5 | 8 | 149 |
+| NOTEZ@nsssslllp | 15 | 61 | 45 | 2 | 14 | 137 |
+| @suewcho | 16 | 61 | 44 | 2 | 15 | 134 |
+| PADO@Jeon-Minjeong | 17 | 61 | 43 | 2 | 16 | 131 |
+| KHH@kimhh2880 | 18 | 61 | 43 | 1 | 17 | 130 |
+| LOOK@artech2w | 19 | 61 | 42 | 1 | 18 | 127 |
+| saenaegi20@leeyewon20 | 20 | 61 | 42 | 0 | 19 | 126 |
+| ladagi@munyoubin | 21 | 61 | 41 | 1 | 19 | 124 |
+| SPONGEBOB@sunjooahn | 22 | 61 | 38 | 1 | 22 | 115 |
+| 💘JUDY💘@junsoo08 | 23 | 61 | 35 | 1 | 25 | 106 |
+| Fake Tiger@kohyun98 | 24 | 61 | 35 | 1 | 25 | 106 |
+| Chess@rex0053 | 25 | 61 | 32 | 2 | 27 | 98 |
+| 종강종강돌을던지자@Wisdom-Kim | 26 | 61 | 32 | 1 | 28 | 97 |
+| Stop@lkm778u | 27 | 61 | 29 | 4 | 28 | 91 |
+| LittleLyrical@ArfiTech | 28 | 61 | 28 | 3 | 30 | 87 |
+| True_Damage@maritajee | 29 | 61 | 28 | 3 | 30 | 87 |
+| HICPT@seanlee5808 | 30 | 61 | 28 | 2 | 31 | 86 |
+| Yabeunosem@minju8843 | 31 | 61 | 27 | 2 | 32 | 83 |
+| 😎@hyunnni | 32 | 61 | 27 | 0 | 34 | 81 |
+| PLZ@alqmzhh92 | 33 | 61 | 25 | 2 | 34 | 77 |
+| PuangTeam@Namkyunghun | 34 | 61 | 25 | 1 | 35 | 76 |
+| Haha_Hoho@dasol0605 | 35 | 61 | 25 | 0 | 36 | 75 |
+| INSIDEOUT@Imhanbin123 | 36 | 61 | 25 | 0 | 36 | 75 |
+| candy@sihumji00 | 37 | 61 | 24 | 1 | 36 | 73 |
+| (🌕'◡'🌕)@soohnzzang | 38 | 61 | 24 | 1 | 36 | 73 |
+| Prism@eunyoungyi | 39 | 61 | 23 | 1 | 37 | 70 |
+| GOD.OF.THUNDER@ParkJh38 | 40 | 61 | 23 | 1 | 37 | 70 |
+| Gwajaeslave@sally1924 | 41 | 61 | 23 | 1 | 37 | 70 |
+| DYNAMITE@Eunyoung1223 | 42 | 61 | 22 | 0 | 39 | 66 |
+| AGANG@jbr1tr | 43 | 61 | 19 | 4 | 38 | 61 |
+| Why Should I@shindongmin11 | 44 | 61 | 19 | 4 | 38 | 61 |
+| Jg Gap@sunghyun2001 | 45 | 61 | 19 | 4 | 38 | 61 |
+| Naega_Jeil_Jalnaga@va0037 | 46 | 61 | 19 | 4 | 38 | 61 |
+| yomyom@jsjy0830 | 47 | 61 | 19 | 1 | 41 | 58 |
+| peanut@kahyeon17 | 48 | 61 | 19 | 1 | 41 | 58 |
+| 맛집@yongjin13 | 49 | 61 | 19 | 1 | 41 | 58 |
+| ◝(⁰▿⁰)◜@sara-k1m | 50 | 61 | 16 | 1 | 44 | 49 |
+| SON7@jigajiga | 51 | 61 | 14 | 5 | 42 | 47 |
+| W.O.@ksr1726 | 52 | 61 | 14 | 0 | 47 | 42 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 53 | 61 | 11 | 4 | 46 | 37 |
+| 폭풍전사119@sukk719 | 54 | 61 | 11 | 4 | 46 | 37 |
+| PUSHING@wkdgnl123 | 55 | 61 | 10 | 2 | 49 | 32 |
+| Rubber Duck@RubADuckDuck | 56 | 61 | 9 | 4 | 48 | 31 |
+| jmtggm@dlaJinsook6 | 57 | 61 | 6 | 4 | 51 | 22 |
+| Upload@HARY020 | 58 | 61 | 5 | 4 | 52 | 19 |
+| Null@L-HK | 59 | 61 | 5 | 2 | 54 | 17 |
+| XD=OkiOkl@OkiOkl | 60 | 61 | 2 | 0 | 59 | 6 |
+| dbsepf@skdbs | 61 | 61 | 1 | 0 | 60 | 3 |
+| Never give up, Just do it@gh-BumsooKim | 62 | 61 | 0 | 0 | 61 | 0 |
