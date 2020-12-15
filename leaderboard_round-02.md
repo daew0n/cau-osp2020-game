@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 11시 06분
+최종 업데이트: 2020년 12월 15일 11시 16분
 
 
 
@@ -34,10 +34,10 @@
 | HICPT@seanlee5808 | 26 | 50 | 23 | 2 | 25 | 71 |
 | 😎@hyunnni | 27 | 50 | 23 | 0 | 27 | 69 |
 | Gwajaeslave@sally1924 | 28 | 50 | 21 | 0 | 29 | 63 |
-| PuangTeam@Namkyunghun | 29 | 50 | 20 | 0 | 30 | 60 |
-| Prism@eunyoungyi | 30 | 50 | 19 | 2 | 29 | 59 |
-| GOD.OF.THUNDER@ParkJh38 | 31 | 50 | 19 | 2 | 29 | 59 |
-| candy@sihumji00 | 32 | 50 | 19 | 1 | 30 | 58 |
+| candy@sihumji00 | 29 | 50 | 20 | 1 | 29 | 61 |
+| PuangTeam@Namkyunghun | 30 | 50 | 20 | 0 | 30 | 60 |
+| Prism@eunyoungyi | 31 | 50 | 19 | 2 | 29 | 59 |
+| GOD.OF.THUNDER@ParkJh38 | 32 | 50 | 19 | 2 | 29 | 59 |
 | DYNAMITE@Eunyoung1223 | 33 | 50 | 17 | 0 | 33 | 51 |
 | AGANG@jbr1tr | 34 | 50 | 14 | 5 | 31 | 47 |
 | yomyom@jsjy0830 | 35 | 50 | 15 | 2 | 33 | 47 |
@@ -53,7 +53,7 @@
 | 폭풍전사119@sukk719 | 45 | 50 | 8 | 2 | 40 | 26 |
 | jmtggm@dlaJinsook6 | 46 | 50 | 5 | 2 | 43 | 17 |
 | Upload@HARY020 | 47 | 50 | 5 | 1 | 44 | 16 |
-| Null@L-HK | 48 | 50 | 5 | 0 | 45 | 15 |
+| Null@L-HK | 48 | 50 | 4 | 0 | 46 | 12 |
 | PUSHING@wkdgnl123 | 49 | 50 | 2 | 0 | 48 | 6 |
 | @CDoubleH | 50 | 50 | 0 | 1 | 49 | 1 |
 | newbie@gh-BumsooKim | 51 | 50 | 0 | 1 | 49 | 1 |
