@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 09시 36분
+최종 업데이트: 2020년 12월 15일 09시 46분
 
 
 
@@ -32,9 +32,9 @@
 | Stop@lkm778u | 24 | 51 | 25 | 2 | 24 | 77 |
 | True_Damage@maritajee | 25 | 51 | 25 | 2 | 24 | 77 |
 | HICPT@seanlee5808 | 26 | 51 | 24 | 2 | 25 | 74 |
-| candy@sihumji00 | 27 | 51 | 22 | 1 | 28 | 67 |
-| 😎@hyunnni | 28 | 51 | 22 | 0 | 29 | 66 |
-| Gwajaeslave@sally1924 | 29 | 51 | 22 | 0 | 29 | 66 |
+| 😎@hyunnni | 27 | 51 | 22 | 0 | 29 | 66 |
+| candy@sihumji00 | 28 | 51 | 21 | 1 | 29 | 64 |
+| Gwajaeslave@sally1924 | 29 | 51 | 21 | 0 | 30 | 63 |
 | Prism@eunyoungyi | 30 | 51 | 20 | 2 | 29 | 62 |
 | GOD.OF.THUNDER@ParkJh38 | 31 | 51 | 20 | 2 | 29 | 62 |
 | DYNAMITE@Eunyoung1223 | 32 | 51 | 19 | 0 | 32 | 57 |
@@ -42,19 +42,19 @@
 | Why Should I@shindongmin11 | 34 | 51 | 16 | 5 | 30 | 53 |
 | Jg Gap@sunghyun2001 | 35 | 51 | 16 | 5 | 30 | 53 |
 | NaDa@yjh9929 | 36 | 51 | 16 | 5 | 30 | 53 |
-| yomyom@jsjy0830 | 37 | 51 | 16 | 2 | 33 | 50 |
-| ⚡Benzi⚡@soohnzzang | 38 | 51 | 16 | 2 | 33 | 50 |
-| SON7@jigajiga | 39 | 51 | 14 | 6 | 31 | 48 |
+| SON7@jigajiga | 37 | 51 | 14 | 6 | 31 | 48 |
+| yomyom@jsjy0830 | 38 | 51 | 15 | 3 | 33 | 48 |
+| ⚡Benzi⚡@soohnzzang | 39 | 51 | 15 | 3 | 33 | 48 |
 | 맛집@yongjin13 | 40 | 51 | 14 | 6 | 31 | 48 |
 | PuangTeam@Namkyunghun | 41 | 51 | 15 | 1 | 35 | 46 |
-| peanut@kahyeon17 | 42 | 51 | 15 | 0 | 36 | 45 |
-| Yabeunosem@minju8843 | 43 | 51 | 12 | 2 | 37 | 38 |
-| ◝(⁰▿⁰)◜@sara-k1m | 44 | 51 | 10 | 4 | 37 | 34 |
-| W.O.@ksr1726 | 45 | 51 | 10 | 2 | 39 | 32 |
-| 폭풍전사119@sukk719 | 46 | 51 | 9 | 2 | 40 | 29 |
-| jmtggm@dlaJinsook6 | 47 | 51 | 6 | 2 | 43 | 20 |
-| Upload@HARY020 | 48 | 51 | 6 | 1 | 44 | 19 |
-| Null@L-HK | 49 | 51 | 5 | 0 | 46 | 15 |
+| peanut@kahyeon17 | 42 | 51 | 14 | 0 | 37 | 42 |
+| Null@L-HK | 43 | 51 | 12 | 3 | 36 | 39 |
+| Yabeunosem@minju8843 | 44 | 51 | 11 | 2 | 38 | 35 |
+| ◝(⁰▿⁰)◜@sara-k1m | 45 | 51 | 9 | 5 | 37 | 32 |
+| W.O.@ksr1726 | 46 | 51 | 9 | 2 | 40 | 29 |
+| 폭풍전사119@sukk719 | 47 | 51 | 9 | 2 | 40 | 29 |
+| jmtggm@dlaJinsook6 | 48 | 51 | 5 | 2 | 44 | 17 |
+| Upload@HARY020 | 49 | 51 | 5 | 1 | 45 | 16 |
 | PUSHING@wkdgnl123 | 50 | 51 | 3 | 0 | 48 | 9 |
 | @CDoubleH | 51 | 51 | 0 | 1 | 50 | 1 |
 | newbie@gh-BumsooKim | 52 | 51 | 0 | 1 | 50 | 1 |
