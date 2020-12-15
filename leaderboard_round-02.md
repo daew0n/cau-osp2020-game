@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 15일 10시 11분
+최종 업데이트: 2020년 12월 15일 10시 16분
 
 
 
@@ -17,9 +17,9 @@
 | 도곡동 주먹밥@smjeon2410 | 9 | 51 | 40 | 3 | 8 | 123 |
 | FinalRoster@StackOut-K1m | 10 | 51 | 40 | 3 | 8 | 123 |
 | Guineapig@ychaaaan | 11 | 51 | 39 | 2 | 10 | 119 |
-| @suewcho | 12 | 51 | 38 | 0 | 13 | 114 |
+| @suewcho | 12 | 51 | 39 | 0 | 12 | 117 |
 | KHH@kimhh2880 | 13 | 51 | 37 | 2 | 12 | 113 |
-| LOOK@artech2w | 14 | 51 | 36 | 1 | 14 | 109 |
+| LOOK@artech2w | 14 | 51 | 37 | 1 | 13 | 112 |
 | ladagi@munyoubin | 15 | 51 | 36 | 0 | 15 | 108 |
 | SPONGEBOB@sunjooahn | 16 | 51 | 33 | 1 | 17 | 100 |
 | PLZ@alqmzhh92 | 17 | 51 | 32 | 1 | 18 | 97 |
@@ -33,7 +33,7 @@
 | True_Damage@maritajee | 25 | 51 | 25 | 2 | 24 | 77 |
 | HICPT@seanlee5808 | 26 | 51 | 24 | 2 | 25 | 74 |
 | 😎@hyunnni | 27 | 51 | 23 | 0 | 28 | 69 |
-| Gwajaeslave@sally1924 | 28 | 51 | 21 | 1 | 29 | 64 |
+| Gwajaeslave@sally1924 | 28 | 51 | 22 | 0 | 29 | 66 |
 | candy@sihumji00 | 29 | 51 | 21 | 1 | 29 | 64 |
 | Prism@eunyoungyi | 30 | 51 | 20 | 2 | 29 | 62 |
 | GOD.OF.THUNDER@ParkJh38 | 31 | 51 | 20 | 2 | 29 | 62 |
@@ -54,7 +54,7 @@
 | 폭풍전사119@sukk719 | 46 | 51 | 10 | 2 | 39 | 32 |
 | jmtggm@dlaJinsook6 | 47 | 51 | 6 | 2 | 43 | 20 |
 | Upload@HARY020 | 48 | 51 | 6 | 1 | 44 | 19 |
-| Null@L-HK | 49 | 51 | 5 | 1 | 45 | 16 |
-| PUSHING@wkdgnl123 | 50 | 51 | 5 | 0 | 46 | 15 |
+| PUSHING@wkdgnl123 | 49 | 51 | 4 | 1 | 46 | 13 |
+| Null@L-HK | 50 | 51 | 3 | 1 | 47 | 10 |
 | @CDoubleH | 51 | 51 | 0 | 1 | 50 | 1 |
 | newbie@gh-BumsooKim | 52 | 51 | 0 | 1 | 50 | 1 |
