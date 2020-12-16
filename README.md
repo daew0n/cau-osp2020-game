@@ -40,14 +40,16 @@
 - 제 1 라운드
     - 마감일: 12월 11일 금요일 11:59 PM
     - 규칙: [constraints-round-01](constraints/constraints-round-01.ipynb)
-	- 명예의전당: [hall-of-fame/round-01](hall-of-fame/round-01)
-	- 최종 점수: [finalscore-round-01](finalscore-round-01.md)
+    - 명예의전당: [hall-of-fame/round-01](hall-of-fame/round-01)
+    - 최종 점수: [finalscore-round-01](finalscore-round-01.md)
 - 제 2 라운드
     - 마감일: 12월 15일 화요일 23:59 PM
     - 규칙: [constraints-round-02](constraints/constraints-round-02.ipynb)
+    - 명예의전당: [hall-of-fame/round-02](hall-of-fame/round-02)
+    - 최종 점수: [finalscore-round-02](finalscore-round-02.md)
 - 제 3 라운드
-    - 마감일: 12월 16일 수요일 12:00 PM
-    - 규칙: *추후 공지*    
+    - 마감일: 12월 18일 금요일 23:59 PM
+    - 규칙: [constraints-round-03](constraints/constraints-round-03.ipynb)   
 - 제 4 라운드
     - 마감일: 12월 17일 목요일 12:00 PM
     - 규칙: *추후 공지*    
