@@ -1,49 +1,49 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 17일 01시 11분
+최종 업데이트: 2020년 12월 17일 01시 16분
 
 
 
 
 | 참가자 | 순위 | 경기수 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 👑@chxhyxn | 1 | 81 | 80 | 1 | 0 | 241 |
-| 세깅이@yejik1002 | 2 | 81 | 80 | 0 | 1 | 240 |
-| LittleLyrical@ArfiTech | 3 | 81 | 76 | 3 | 2 | 231 |
-| 😎@dwgoon | 4 | 81 | 43 | 35 | 3 | 164 |
-| WARNING@aiden163 | 5 | 81 | 43 | 35 | 3 | 164 |
-| sskjhgod@da3414 | 6 | 81 | 42 | 35 | 4 | 161 |
-| Haha_Hoho@dasol0605 | 7 | 81 | 42 | 35 | 4 | 161 |
-| potato@donghyuckpark | 8 | 81 | 42 | 35 | 4 | 161 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 9 | 81 | 42 | 35 | 4 | 161 |
-| DYNAMITE@Eunyoung1223 | 10 | 81 | 42 | 35 | 4 | 161 |
-| Prism@eunyoungyi | 11 | 81 | 42 | 35 | 4 | 161 |
-| PWN@gun2o2o | 12 | 81 | 42 | 35 | 4 | 161 |
-| Upload@HARY020 | 13 | 81 | 42 | 35 | 4 | 161 |
-| L@hsel0730 | 14 | 81 | 42 | 35 | 4 | 161 |
-| 🐻@hyunnni | 15 | 81 | 42 | 35 | 4 | 161 |
-| INSIDEOUT@Imhanbin123 | 16 | 81 | 42 | 35 | 4 | 161 |
-| jam._.@jsjy0830 | 17 | 81 | 41 | 35 | 5 | 158 |
-| KHH@kimhh2880 | 18 | 81 | 41 | 35 | 5 | 158 |
-| Happiness@linad27 | 19 | 81 | 39 | 35 | 7 | 152 |
-| Stop@lkm778u | 20 | 81 | 39 | 35 | 7 | 152 |
-| ApTo990FM@MaSeongHwan | 21 | 81 | 39 | 35 | 7 | 152 |
-| ladagi@munyoubin | 22 | 81 | 39 | 35 | 7 | 152 |
-| Winter@nayeonii | 23 | 81 | 39 | 35 | 7 | 152 |
-| 나를 밟고 올라가라!@OkiOkl | 24 | 81 | 39 | 35 | 7 | 152 |
-| Bruce.Wayne@ParkJh38 | 25 | 81 | 39 | 35 | 7 | 152 |
-| coronaxxx@pjmkjjpk | 26 | 81 | 39 | 35 | 7 | 152 |
-| Rubber Duck@RubADuckDuck | 27 | 81 | 39 | 35 | 7 | 152 |
-| (´-_ゝ-`)@sally1924 | 28 | 81 | 39 | 35 | 7 | 152 |
-| ◝٩(●'▿'●)۶@sara-k1m | 29 | 81 | 39 | 35 | 7 | 152 |
-| HICPT@seanlee5808 | 30 | 81 | 39 | 35 | 7 | 152 |
-| Why Should I@shindongmin11 | 31 | 81 | 39 | 35 | 7 | 152 |
-| 도곡동 주먹밥@smjeon2410 | 32 | 81 | 39 | 35 | 7 | 152 |
-| @@@soohnzzang | 33 | 81 | 39 | 35 | 7 | 152 |
-| Jg Gap@sunghyun2001 | 34 | 81 | 39 | 34 | 8 | 151 |
-| SPONGEBOB@sunjooahn | 35 | 81 | 39 | 34 | 8 | 151 |
-| Naega_Jeil_Jalnaga@va0037 | 36 | 81 | 39 | 34 | 8 | 151 |
-| 종강종강돌을던지@Wisdom-Kim | 37 | 81 | 39 | 34 | 8 | 151 |
-| NaLaGo@yjh9929 | 38 | 81 | 39 | 34 | 8 | 151 |
+| 👑@chxhyxn | 1 | 81 | 79 | 2 | 0 | 239 |
+| LittleLyrical@ArfiTech | 2 | 81 | 76 | 3 | 2 | 231 |
+| 세깅@yejik1002 | 3 | 81 | 45 | 36 | 0 | 171 |
+| 😎@dwgoon | 4 | 81 | 43 | 36 | 2 | 165 |
+| WARNING@aiden163 | 5 | 81 | 43 | 36 | 2 | 165 |
+| sskjhgod@da3414 | 6 | 81 | 42 | 36 | 3 | 162 |
+| Haha_Hoho@dasol0605 | 7 | 81 | 42 | 36 | 3 | 162 |
+| potato@donghyuckpark | 8 | 81 | 42 | 36 | 3 | 162 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 9 | 81 | 42 | 36 | 3 | 162 |
+| DYNAMITE@Eunyoung1223 | 10 | 81 | 42 | 36 | 3 | 162 |
+| Prism@eunyoungyi | 11 | 81 | 42 | 36 | 3 | 162 |
+| PWN@gun2o2o | 12 | 81 | 42 | 36 | 3 | 162 |
+| Upload@HARY020 | 13 | 81 | 42 | 36 | 3 | 162 |
+| L@hsel0730 | 14 | 81 | 42 | 36 | 3 | 162 |
+| 🐻@hyunnni | 15 | 81 | 42 | 36 | 3 | 162 |
+| INSIDEOUT@Imhanbin123 | 16 | 81 | 42 | 36 | 3 | 162 |
+| jam._.@jsjy0830 | 17 | 81 | 41 | 36 | 4 | 159 |
+| KHH@kimhh2880 | 18 | 81 | 41 | 36 | 4 | 159 |
+| Happiness@linad27 | 19 | 81 | 39 | 36 | 6 | 153 |
+| Stop@lkm778u | 20 | 81 | 39 | 36 | 6 | 153 |
+| ApTo990FM@MaSeongHwan | 21 | 81 | 39 | 36 | 6 | 153 |
+| ladagi@munyoubin | 22 | 81 | 39 | 36 | 6 | 153 |
+| Winter@nayeonii | 23 | 81 | 39 | 36 | 6 | 153 |
+| 나를 밟고 올라가라!@OkiOkl | 24 | 81 | 39 | 36 | 6 | 153 |
+| Bruce.Wayne@ParkJh38 | 25 | 81 | 39 | 36 | 6 | 153 |
+| coronaxxx@pjmkjjpk | 26 | 81 | 39 | 36 | 6 | 153 |
+| Rubber Duck@RubADuckDuck | 27 | 81 | 39 | 36 | 6 | 153 |
+| (´-_ゝ-`)@sally1924 | 28 | 81 | 39 | 36 | 6 | 153 |
+| ◝٩(●'▿'●)۶@sara-k1m | 29 | 81 | 39 | 36 | 6 | 153 |
+| HICPT@seanlee5808 | 30 | 81 | 39 | 36 | 6 | 153 |
+| Why Should I@shindongmin11 | 31 | 81 | 39 | 36 | 6 | 153 |
+| 도곡동 주먹밥@smjeon2410 | 32 | 81 | 39 | 36 | 6 | 153 |
+| @@@soohnzzang | 33 | 81 | 39 | 36 | 6 | 153 |
+| Jg Gap@sunghyun2001 | 34 | 81 | 39 | 35 | 7 | 152 |
+| SPONGEBOB@sunjooahn | 35 | 81 | 39 | 35 | 7 | 152 |
+| Naega_Jeil_Jalnaga@va0037 | 36 | 81 | 39 | 35 | 7 | 152 |
+| 종강종강돌을던지@Wisdom-Kim | 37 | 81 | 39 | 35 | 7 | 152 |
+| NaLaGo@yjh9929 | 38 | 81 | 39 | 35 | 7 | 152 |
 | PLZ@alqmzhh92 | 39 | 81 | 35 | 42 | 4 | 147 |
 | W.O.@ksr1726 | 40 | 81 | 46 | 1 | 34 | 139 |
 | cau.ac.kr@rakbin007 | 41 | 81 | 40 | 0 | 41 | 120 |
