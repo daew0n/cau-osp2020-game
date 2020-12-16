@@ -1,5 +1,5 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 16일 19시 31분
+최종 업데이트: 2020년 12월 16일 22시 36분
 
 
 
@@ -45,10 +45,10 @@
 | 종강종강돌을던지@Wisdom-Kim | 37 | 81 | 39 | 34 | 8 | 151 |
 | NaLaGo@yjh9929 | 38 | 81 | 39 | 34 | 8 | 151 |
 | PLZ@alqmzhh92 | 39 | 81 | 35 | 42 | 4 | 147 |
-| W.O.@ksr1726 | 40 | 81 | 47 | 1 | 33 | 142 |
+| W.O.@ksr1726 | 40 | 81 | 46 | 1 | 34 | 139 |
 | cau.ac.kr@rakbin007 | 41 | 81 | 40 | 0 | 41 | 120 |
 | AGANG@jbr1tr | 42 | 81 | 23 | 30 | 28 | 99 |
-| saenaegi20@leeyewon20 | 43 | 81 | 22 | 18 | 41 | 84 |
+| saenaegi20@leeyewon20 | 43 | 81 | 22 | 19 | 40 | 85 |
 | 👏@suewcho | 44 | 81 | 6 | 31 | 44 | 49 |
 | MyTeam@bigoriginlee | 45 | 81 | 3 | 39 | 39 | 48 |
 | LOOK@artech2w | 46 | 81 | 3 | 39 | 39 | 48 |
@@ -62,15 +62,15 @@
 | 100점만 @wkdgnl123 | 54 | 81 | 3 | 39 | 39 | 48 |
 | PADO@Jeon-Minjeong | 55 | 81 | 2 | 40 | 39 | 46 |
 | SON7@jigajiga | 56 | 81 | 2 | 40 | 39 | 46 |
-| Apgujeong_Crew@JunYoungTonyKim | 57 | 81 | 2 | 40 | 39 | 46 |
-| peanut@kahyeon17 | 58 | 81 | 2 | 40 | 39 | 46 |
-| Tank 2@kimsiyeon4860 | 59 | 81 | 2 | 40 | 39 | 46 |
-| True_Damage@maritajee | 60 | 81 | 2 | 39 | 40 | 45 |
-| Party@michael01924 | 61 | 81 | 2 | 39 | 40 | 45 |
-| Yabeunosem@minju8843 | 62 | 81 | 2 | 39 | 40 | 45 |
-| Malloc@n2ceo778 | 63 | 81 | 2 | 39 | 40 | 45 |
-| PuangTeam@Namkyunghun | 64 | 81 | 2 | 39 | 40 | 45 |
-| NOTEZ@nsssslllp | 65 | 81 | 2 | 39 | 40 | 45 |
+| 치킨발굴가@JIMINOFF | 57 | 81 | 2 | 40 | 39 | 46 |
+| Apgujeong_Crew@JunYoungTonyKim | 58 | 81 | 2 | 40 | 39 | 46 |
+| peanut@kahyeon17 | 59 | 81 | 2 | 40 | 39 | 46 |
+| Tank 2@kimsiyeon4860 | 60 | 81 | 2 | 40 | 39 | 46 |
+| True_Damage@maritajee | 61 | 81 | 2 | 39 | 40 | 45 |
+| Party@michael01924 | 62 | 81 | 2 | 39 | 40 | 45 |
+| Yabeunosem@minju8843 | 63 | 81 | 2 | 39 | 40 | 45 |
+| Malloc@n2ceo778 | 64 | 81 | 2 | 39 | 40 | 45 |
+| PuangTeam@Namkyunghun | 65 | 81 | 2 | 39 | 40 | 45 |
 | TeamnameTeam@ottersem | 66 | 81 | 2 | 39 | 40 | 45 |
 | pooang20@pooang2020 | 67 | 81 | 2 | 39 | 40 | 45 |
 | Chess@rex0053 | 68 | 81 | 2 | 39 | 40 | 45 |
