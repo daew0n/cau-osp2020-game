@@ -5,7 +5,7 @@ import re
 import numpy as np
 # import seaborn as sns
 
-league_round = 2
+league_round = 3
 
 pat = re.compile("\|\s+(.*?)@([a-zA-Z0-9\-_]+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|\s+(\d+)\s+\|")
 fpath = "../leaderboard_round-0%d.md"%(league_round)
