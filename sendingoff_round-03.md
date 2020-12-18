@@ -1,5 +1,5 @@
 # Players sent off
-최종 업데이트: 2020년 12월 18일 21시 26분
+최종 업데이트: 2020년 12월 18일 21시 31분
 
 
 경기 중 오류가 발생하는 경우 자동으로 퇴장됩니다.
@@ -7,6 +7,6 @@
 
 | 퇴장된 참가자 |
 |:---:|
-| prototype_v1.2@sukk719 |
 | 🤦‍@Wisdom-Kim |
+| prototype_v1.2@sukk719 |
 | sselhtoot@gyumni1261 |
