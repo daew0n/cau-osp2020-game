@@ -56,5 +56,5 @@
     - 명예의전당: [hall-of-fame/round-03](hall-of-fame/round-03)
     
 - 제 4 라운드
-    - 마감일: 12월 22일 화요일 23:59 PM
-    - 규칙: *추후 공지*
+    - 마감일: 12월 23일 수요일 23:59 PM
+    - 규칙: [constraints-round-04](constraints/constraints-round-04.ipynb)
